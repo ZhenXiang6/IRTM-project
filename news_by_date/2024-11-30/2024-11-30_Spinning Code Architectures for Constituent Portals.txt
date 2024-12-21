@@ -1,0 +1,6 @@
+Title: Spinning Code: Architectures for Constituent Portals
+Author: Aaron Crosman
+Published At: 2024-11-30T22:17:47Z
+Description: One of the common needs, or at least desires, for CRM users is to link their CRM to some kind of constituent portal. There are several ways your can architect a good data pattern for your constituent portal. The trick is picking the right one for your organiz…
+
+Content: One of the common needs, or at least desires, for CRM users is to link their CRM to some kind of constituent portal. There are several ways your can architect a good data pattern for your constituent… [+7734 chars]

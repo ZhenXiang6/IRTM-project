@@ -1,0 +1,6 @@
+Title: How China’s Zipcode System Fuels Business Intelligence
+Author: Sean Mallon
+Published At: 2024-11-30T20:12:21Z
+Description: China has a unique zip code system, which makes it easier to develop great business intelligence models.
+
+Content: China is one of the many countries that is making major headway with big data. Its commitment to using big data is one of the reasons that China is starting to become the most powerful economy in the… [+6364 chars]

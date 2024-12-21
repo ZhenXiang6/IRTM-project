@@ -1,0 +1,6 @@
+Title: Arch Linux Based CachyOS Takes The Lead On Intel Arrow Lake
+Author: Michael Larabel
+Published At: 2024-12-20T15:33:38Z
+Description: Following the recent Intel Core Ultra 9 285K Windows 11 vs. Ubuntu Linux benchmarks I wanted to expand the testing to look at how well other Linux distributions as well were performing on this new 24-core Arrow Lake desktop processor. To much surprise Intel's…
+
+Content: Following the recent Intel Core Ultra 9 285K Windows 11 vs. Ubuntu Linux benchmarks I wanted to expand the testing to look at how well other Linux distributions as well were performing on this new 24… [+1659 chars]
