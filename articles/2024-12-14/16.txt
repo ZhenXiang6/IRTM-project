@@ -1,0 +1,17 @@
+Markets
+Hot Stocks
+Fear & Greed Index
+Latest Market News
+Hot Stocks
+People in New Jersey are freaking(!) out(!) about sightings of what they say appear to be “giant drones” flying around at night. Government officials have said at least some of those sightings are just regular, old commercial flights.
+Turns out, there are afew appsthat could help prevent that kind of confusion.
+Apps like Flightradar24, Plane Finder and FlightAware all have features that let users see, in real-time, what aircraft are flying around them, including the thousands of commercial and private flights and helicopters that may be in the skies at any given time. In some cases,  the appscan also identify unmanned aircraft, such as commercial drones that are signaling their location the same way planes do.
+With these apps — or their websites — you can open a map of your location and see the air traffic above you, along with details about individual aircraft such as its altitude, speed and destination. You may also see a code denoting the plane’s airline or a registration code for private aircraft.
+Related articleMysterious aircraft are flying over New Jersey. Here’s what big drones are made for
+With FlightRadar24 and Plane Finder, you can also point your phone camera at an aircraft in the sky and the apps will tell you about it, even at night — kind of like Shazam for airplanes.
+Flightradar24saysthat on any given day, it can track more than 200,000 aircraft through the skies. And following these planeshas become a hobbyfor some people; for example, in August 2022, when a US Air Force plane carrying then-House Speaker Nancy Pelosi landed in Taiwan, more than 700,000 people witnessed the event in real-time viaFlightradar24.
+These apps work by collecting the data that most aircraft transmit to ground stations and other aircraft, known as “ADS-B” data, as well as satellites and other data sources.
+But if you have trouble identifying a plane on the app, you may need to zoom out on the map — experts say aircraft are often farther away than they appear to the human eye.
+Of course, not every aircraft is going to show up on those platforms — some small hobby drones, for example, don’t contain the kind of technology to broadcast their locations the way commercial aircraft do. Some military and high-profile aircraft, like Air Force One, are also blocked.
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.CNN Sans ™ & © 2016 Cable News Network.

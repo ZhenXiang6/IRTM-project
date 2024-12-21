@@ -1,0 +1,57 @@
+As a flurry of possibledrone sightingshas triggered local politicians to press federal officials for more information, lawmakers have proposed a variety of different methods for dealing with drones.
+There’s anti-drone legislation being floated in Congress. There are helicopters monitoring drones in Pennsylvania. And the US government is sending drone detection and tracking systems to two military facilities in New Jersey, sources told CNN on Monday.
+At the same time, the White House has sought to reassure the public and said that most of what are reported as drone sightings are actually lawfully operated aircraft, or even stars.
+“We assess that the sightings to date include a combination of lawful commercial drones, hobbyist drones and law enforcement drones, as well as manned fixed-wing aircrafts, helicopters, and even stars that were mistakenly reported as drones,” White House national security communications adviser John Kirby told reporters Monday.
+“We have not identified anything anomalous or any national security or public safety risks over the civilian airspace in New Jersey or other states in the Northeast.”
+President Joe Biden also told reporters on Tuesday night “There’s nothing nefarious apparently, but they’re checking it all out.”
+“But we’re following it closely. So far no sense of danger,” he said.
+Federal investigators have cleared more than 5,000 reported sightings of suspicion, Kirby told CNN’s Kate Bolduan on Tuesday, but the FBI is still looking into another 100 leads.
+“We’ve even sent up visual observers, and everything we’re seeing to date, our assessment tells us that these are commercial drones, hobbyist drones or law enforcement drones all operating legally and lawfully,” Kirby said.
+Rep. Raja Krishnamoorthi, an Illinois Democrat who sits on the House Intelligence Committee, told CNN’s Kaitlan Collins that, during a classified briefing Tuesday, officials affirmed there is no evidence of anything nefarious and that there are the 100 reported incidents they still need to look into. But he also said there is still work to be done when it comes to the government’s ability to respond to potentially concerning drone sightings.
+“I think one thing that really stood out in this particular briefing is that there’s both a lack of technology as well as resources for both drone detection and takedown by different law enforcement and other agencies. And also, there’s a lack of legal authorities and rules and regulations to enable them to do what they have to do to protect the homeland,” he said.
+Kirby added that he doesn’t necessarily consider the surge in possible drone sightings to be an overreaction by the public.
+“People are right to see these things and be concerned about it. I think what you’re seeing, honestly, is the huge ecosystem of drones now really coming to light,” Kirby said. “Maybe people just didn’t appreciate how many of these things are flying in US airspace every single day … and the numbers are only going to increase.”
+Here’s more about what officials say they’re doing – and say they could or should be doing – to hunt down the origin and purpose of the possible drones.
+A number of states where possible drones have been reported have announced that they’re deploying drone detection systems.
+The systems sent by the government to New Jersey are in the process of moving to Picatinny Arsenal in northern New Jersey and Naval Weapons Station Earle in central New Jersey, the officials said. It was not immediately clear when the systems would arrive or be operational.
+The US government also has to determine the legal authorities under which the systems can operate, the officials said, which requires coordination between the secretaries of defense and transportation.
+Related articleWhy you shouldn’t try to shoot down a suspected drone
+Drones have been spotted nearPicatinny Arsenaland over President-elect Donald Trump’s golf course in Bedminster, according tomilitary officialsandstate lawmakers. The sightings prompted the Federal Aviation Administration to issue temporary flight restrictions over the properties.
+New York and Connecticut have also announced they’re using drone detection systems.
+In Pennsylvania, state police are flying helicopters to try to “determine where these drones are originating from and what the purpose of these drones are,” Pennsylvania Gov. Josh Shapiro said Friday.
+Senate Majority Leader Chuck Schumer said he’s asking the Department of Homeland Security to deploy special detection systems that use 360-degree technology to detect drones.
+“If the technology exists for a drone to make it up into the sky, there certainly is the technology that can track the craft with precision and determine what the heck is going on,” Schumer said Sunday while discussing the technology.
+Although most officials have given few details about the kinds of systems they’re deploying, Vijay Kumar, the dean of engineering at the University of Pennsylvania, told CNN there are a few methods to monitor drones – and the best systems use multiple techniques. Radar-based detection, radio frequency detection, acoustic detection and optical and infrared sensors can all be used to track drones in different environments.
+“The main difficulties in detecting and tracking drones stem from their small size, agility and potential for autonomous operation,” he said.
+Any “realistic approach” to tracking drones has to use data from multiple different sensors, Kumar said. And “deep learning algorithms,” which can combine multiple types of data and improve accuracy, “are emerging as the best approach to solve this problem, he added.
+The head of the Commercial Drone Alliance, which represents for-profit drone users, says the industry wants to use them responsibly.
+“It’s very important for our industry to engage with communities, to utilize a drone digital license plate known as Remote Identification, to be transparent and electronically conspicuous in the airspace,” executive director Lisa Ellman told CNN “News Central” on Tuesday.
+Matt McCrann, the CEO ofDroneShield, which manufactures and sells counterdrone technology, told CNN that law enforcement were most likely using passive radio frequency systems to monitor drones.
+Related videoHow flight-tracking apps can clear up some confusion over sightings in the sky
+These systems “do not interfere with other signals out there, and depending on the methodology, they can be fully compliant for use with considerations to privacy,” McCrann said.
+The first step when dealing with a drone that may be suspicious or breaking the law is to “locate the pilot if possible, get to the source,” he added. It’s only if that’s not possible that law enforcement should use other methods, like “jamming the drone signals and forcing them to either return ‘home’ or their point of origination or force them to land where engaged.”
+“Jamming” – or deliberate interference with the radio signals used for communicating between drones and their operators – can present problems of its own: It can inadvertently interfere with other electronic devices, like cell phones and Wi-Fi,Jonathan Rupprecht, a drone attorney, commercial pilot and flight instructor, told CNN on Monday.
+Law enforcement officials would need a warrant to interfere with the radio signals of a drone, according toMichelle L.D. Hanlon, executive director of the Center for Air and Space Law at the University of Mississippi School of Law.
+She noted intensive surveillance of drones risks running afoul of privacy laws, including the Electronic Communications Privacy Act of 1986 – the so-calledWiretap Act– which bans the unauthorized interception of wire, oral or electronic communications.
+Hanlon added many drone “incursions” – like those into restricted airspace above military sites – may be “unintentional.”
+“A lot of drones are piloted by kids 16, 17 years old,” she said.
+State and local authorities, she added, are very limited in what they can do if they identify a suspicious drone. “Even the military doesn’t necessarily know how to or is able to respond,” she said.
+In addition to calling for more detection technology, lawmakers have also floated new legislation that could expand federal or local authority over drones.
+Democratic New York Gov. Kathy Hochul has called for Congress to pass the federal Counter-UAS Authority Security, Safety, and Reauthorization Act, which she said would “give New York and our peers the authority and resources required to respond to circumstances like we face today.” UAS is an acronym for “Unmanned Aerial System,” another term for drones.
+The draft text of the law, sponsored by Republican Rep. Mark Green of Tennessee, says it would allow the FAA to “seize, exercise control of, or otherwise confiscate an unmanned aircraft system or unmanned aircraft.”
+Additionally, Senate Majority Leader Schumer said Monday he is planning to try to pass legislation that will empower local officials to respond to suspected drone sightings.
+Related articleKey US Air Force base closes airspace amid drone sightings
+Schumer said local authorities in New York and New Jersey do not have the authority or resources to “get to the bottom of” the sightings as it is federal jurisdiction.
+Currently, drones are regulated almost entirely by the federal government.
+“If it’s flying in the national airspace, or really the airspace, then that’s the federal government’s exclusive control,” Rupprecht told CNN on Monday.
+Drones heavier than 0.55 pounds have to be registeredwith the FAA, and must comply withremote identification– which allows a drone in flight to broadcast identification information. Drones flown overnight must also displayanti-collision lighting. The maximum altitude allowed is 400 feet above the ground and the maximum speed is 100 mph.
+The Department of Homeland Security has some authority to deal with drones through thePreventing Emerging Threats Act of 2018.
+But there are also limits to federal authority over drones.
+“There are only certain agencies which have certain authority to interdict, to monitor, drones,” said Rupprecht.
+Hanlon described the current legal environment as a “real sort of turf war, if you will, between the federal government and the states.”
+“The FAA is in charge of assuring the safety of the national airspace,” she said. “But what we don’t have is a definition of where national airspace begins and local airspace ends.”
+To help give local authorities more power, Rupprecht said he recommended “very narrow restrictions at a statute level” – such as requirements for drone operators to register their aircraft locally as well as with the FAA.
+He noted that underUSC 40103, US citizens have a “a federally granted right” to fly in the national airspace. Some 792,000 drones areregistered with the FAA, and many of the reported drone sightings may be drones offering “perfectly legally,” he said.
+So, any legislation that grants more authority to local law enforcement must also balance citizens’ right to fly drones safely and legally, he said.
+CNN’s DJ Judd, Josh Campbell, Andy Rose, Michelle Watson, Mary Kay Mallonee and Taylor Romine contributed to this report.
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.CNN Sans ™ & © 2016 Cable News Network.
