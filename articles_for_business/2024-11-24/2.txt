@@ -1,0 +1,16 @@
+Markets
+Hot Stocks
+Fear & Greed Index
+Latest Market News
+Hot Stocks
+A major software supply-chain company, which counts US and UK grocery stores and Fortune 500 firms as clients, said it was hit by a ransomware attack this weekend.
+The hackers hit Blue Yonder — an Arizona-based software firm acquired by Panasonic in 2021 — affecting a private cloud computing service the company provides some customers, but not the company’s public cloud environment.
+A Blue Yonder spokesperson did not answer questions about which clients were affected, including those in the United States. But messages Blue Yonder sent to customers CNN reviewed show the company is scrambling to work with US-based clients to mitigate any impacts on customers.
+“On November 21, 2024, Blue Yonder experienced disruptions to its managed services hosted environment, which was determined to be the result of a ransomware incident,” Blue Yonder said in an initial public statement on Friday. The company said in an updated statement on Saturday it was making “steady progress” in its recovery but still did not have a “timeline for restoration.”
+Immediate impact was felt in the United Kingdom, where two of the four biggest grocery chains told CNN they were taking steps to deal with the outage.
+“We have reverted to a backup process but the outage has caused the smooth flow of goods to our stores to be impacted,” said a spokesperson for Morrisons, which has nearly 500 grocery stores across the United Kingdom.
+A spokesperson for Sainsbury, another big UK grocery chain, told CNN it had “contingency processes in place” to deal with the Blue Yonder outage.
+Some of the biggest US grocery chains use Blue Yonder, including Albertsons — the parent company of chains like Safeway and Jewel-Osco — and Kroger, the parent company of chains like Ralphs and Fred Meyer. Albertsons and Kroger did not immediately respond to CNN’s request for comment
+Other major corporations that have used Blue Yonder products or services include Proctor & Gamble and Anheuser-Busch, according to Blue Yonder press statements. Neither company responded to requests for comment.
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.CNN Sans ™ & © 2016 Cable News Network.

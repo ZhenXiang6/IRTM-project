@@ -1,0 +1,599 @@
+Our live coverage of the global tech outage has ended for the day.
+Jetstar Japan, Hong Kong Express and Cebu Pacific airlines said Saturday (local time) their operations are gradually being restored after disruptions due to the global tech outage.
+Jetstar Japan said “normal operation is planned” for Saturday with the exception of five flights that were canceled, according to a statement on its website.
+Hong Kong Express said its online booking and check-in systems have “largely resumed” as of Saturday after the service system of its provider Navitaire was impacted by the global tech outage. Four flights will resume Saturday, but 20 remain canceled, the airline said in a statement.
+Cebu Pacific, a Philippine airline, said its automated check-in, booking and other systems “have been restored but flight operations will take some time to normalize due to yesterday’s outage,” according to a statement.
+“Our technical teams continue to make positive progress in restoring the full functionality of our systems following the global service outage that is affecting airlines and businesses,” Cebu Pacific’s statement said.
+Only 15 out of 609 experienced minimal disruption Friday in Egypt as a result of the global cyber outage, according to the Egyptian Ministry of Civil Aviation.
+Alternative systems were activated to minimize delays and all flights are now operating as scheduled, the ministry reported Friday.
+“The GoNow system, which manages all airport-related check-in and boarding functions, was affected by the global cyber outage,” the ministry said.
+
+The ministry said it is working closely with GoNow to ensure a full return to normal operations and it has been closely monitoring the situation from the main operations room of the civil aviation ministry, where it is assessing the repercussions of this global crisis and addressing any emerging issues.
+The global technical outage affecting various sectors worldwide has resulted in minor impacts on the operational processes of the United Arab Emirates’ airports and airlines, according to the UAE General Civil Aviation Authority (GCAA).
+The GCAA reported minor delays in the check-in processes for a limited number of flights. Airlines implemented an alternative system, allowing check-in operations to resume normally.
+GCAA added that national carriers are closely monitoring the situation and providing immediate updates and guidance to customers and travelers.
+The car rental company Hertz saw an influx of customers as a global IT outage continues to impact many airlines and businesses.
+Laura Smith, the head of customer experience at Hertz, told CNN Friday that while the company saw no disruptions to IT software, it saw an increase in customers at call centers and physical locations.
+“It has been a really, busy day,” Smith said, “It’s certainly among one of the busiest days we’ve seen as far as disruptions go.”
+
+Hertz experienced a lot of impact on the East Coast, particularly in Atlanta, Newark, Orlando and Charlotte with one-way reservations.
+Smith explained that one customer called who was landing in Atlanta after 8 p.m. and was looking to book a car to drive home to Richmond, Virginia, as their connecting flight was canceled.
+On Thursday night and all-day Friday, Hertz brought in extra staff to help with the influx and some employees have worked extra hours as well.
+“We are lucky our operational infrastructure was up and running so that we could be a part of the solution for many customers,” Smith said.
+
+Customers have been generally grateful to the Hertz staff, Smith said, as they realize that renting a car may be the only option for them to arrive sooner to their final destination.
+Flight cancellations into or out of the US have topped 3,000 flights as of 8:40 p.m. ET on Friday,according to FlightAware.com.
+Over 11,000 U.S. flights were delayed.
+The cancellations come as tech disruptions impact sectors across the globe.
+A former FBI supervisory special agent said the national security implications of today’s global computer outage are “bigger than most people think.”
+Rob D’Amico said that nation-state cyber actors — otherwise known as adversaries with maliciously targeted cyber activity, according to theCybersecurity and Infrastructure Security Agency— are likely keeping track of what happened during the tech disruption.
+“They might not be involved with how it happened, but they’re looking at what happened, what were the reactions, what the reaction times were, how they fixed it so that if they look at an offensive cyber operation against the United States, they can map out what was done,” D’Amico told CNN’s Erin Burnett  of nation-state cyber actors.
+
+He added that another national security issue could be cyber actors potentially taking advantage of the outage by attempting phishing cyberattacks.
+CrowdStrike, the company behind the tech disruption, saidin a statementFriday that “this was not a cyberattack” and that the company’s team “is fully mobilized to ensure the security and stability of CrowdStrike customers.”
+D’Amico said he is skeptical of the firm saying the debacle was not a security incident.
+United States Customs and Border Protection is experiencing “processing delays” due to global technical outages that may lead to longer wait times at US ports of entry.
+CBP is working to restore its systems to full capacity and mitigate impacts on its operations as well as on international trade and travel, a spokesperson said Friday.
+“During this time, travelers at air and land ports of entry may experience longer than normal wait times. All CBP applications, including Automated Commercial Environment, CBP One, Simplified Arrival, and the Global Entry Mobile App, are operational,” the spokesperson said.
+
+Tech disruptions across the world have hit airlines, banks, businesses, schools and governments, along with some health and emergency services. One expert said it could be the “largest IT outage in history.”
+Saudi Arabia has seen minimal impact to its critical infrastructure from the global tech disruptions, according to the Saudi National Cybersecurity Authority (NCA).
+The NCA is taking proactive measures and monitoring for any further cyber threats, it said in a statement Friday. The agency credited its controls and standards for the minimal impacts seen in the country.
+Operations have returned to normal at the country’s King Khalid International Airport in Riyadh, King Abdulaziz International Airport in Jeddah, King Fahd International Airport in Dammam, and Cluster 2 Airports, the Saudi Matarat Holding Company said in a separate statement.
+This follows earlier airline disruptions caused by the global technical outage.
+Kim Brown was near the end of her shift Thursday night as a labor and delivery nurse at Kaiser Permanente in San Jose, California, when the hospital’s computer systems, which it relies on to care for women in labor and their babies, started getting “a little glitchy.”
+Brown says workers there are used to occasional problems like slow-loading medical records, so at first, it didn’t raise any alarms. But shortly after 10 p.m. local time, the computer abruptly shut down. “Oh, that usually doesn’t happen,” the nurse said. When it restarted, it was frozen on a blue screen with an error message.
+The scope of the problem revealed itself quickly: It wasn’t just one computer, it was all the computers on the unit.
+And it wasn’t just the workstations where they accessed electronic medical records. Something had also taken out a system called FetaLink, which they use to watch the heartbeats of babies in the womb at the nurses’ station. The automated medicine cabinet that dispenses drugs had stopped working. Their security system had coded.
+“All of our babies get little plastic tags that will set off an alarm if they get too close to an exit or an elevator. That went down,” Brown said. “It was unnerving because we had zero information. It was just, ‘Oh, well, everything’s out now.’“
+
+Normally, Brown says, with so many systems down, the hospital would have gone on redirect, a systemwide status that means it can’t take new patients. But when their manager started calling other hospitals nearby, she realized they were all having the same problems.
+Kaiser and other hospitals have a backup system called downtime protocols that are implemented if staffers have to work without their computers and track patient care on paper charts.
+They called the hospital’s security guards to sit by the elevators to keep babies safe. Orders for lab tests were faxed or carried to the lab or the pharmacy, which amounted to extra work for nurses and delays for patients who had to wait longer than usual for care.
+A group of private sector and government agencies worked overnight to determine the threat and find a solution to the global tech outage, according to the former head of the computer security company McAfee.
+Former McAfee CEO Dave DeWalt said the call was set up by CrowdStrike, the company whose update for Microsoft Windows appears to have caused the outages, and that it lasted all night. It included the Cybersecurity and Infrastructure Security Agency and other private and government organizations.
+“This particular release was faulty as admitted by George Kurtz, the (CrowdStrike) CEO, and we then had to replace it,” DeWalt said. “But at that point, the damage had been done, and we now had to move into manual mode.”
+In manual mode, it takes a village to reboot computer devices and reload operating systems, DeWalt said, adding some of the companies “spent the entire night deploying thousands of people by hand reloading operating systems, starting servers back up again.”
+After discovering the problem wasn’t an attack, but rather a conflict with a Microsoft update that occurred earlier, the group had to race against the clock.
+“CrowdStrike was doing everything in (its) power to stop threats from occurring by doing the updates. But at the same time, the quality control broke down and we ended up with what we had to happen,” DeWalt said.
+
+The ongoing global IT outage is impacting major hotels, including Marriott International and some Hilton hotels.
+“We are actively working with our vendors to resolve issues that have impacted certain hotel systems. We apologize for any inconvenience that guests may experience,” Marriott International said in a statement to CNN Friday afternoon.
+
+Marriott International has nearly 8,900 properties in 141 countries and territories, according to the company’s website.
+Impact at other hotels:An assistant manager at the Hilton Phoenix Tapatio Cliffs Resort in Phoenix, Arizona, said they have been having to manually unlock guests’ rooms because the outage impacted the software the hotel uses to make key cards.
+“It’s challenging to say the least. It is definitely stressful. But since this is so widespread, a lot of people are aware of the outage, and so people are more understanding,” the hotel’s assistant manager, Amy Beghtol, said.
+
+A CNN team saw guests at the hotel using chairs as doorstoppers to keep their doors from closing when they had to leave.
+CNN has reached out to Hilton Hotels for comment.
+This post has been updated with information from the Hilton Phoenix Tapatio Cliffs Resort.
+The global tech outage ricocheted through the brokerage industry, where delays can lead to the loss of money for clients.
+A representative from Merrill Edge, owned by Bank of America, told CNN the online trading platform experienced “limited impacts” as a result of the outage. They have since been “largely resolved,” he said.
+Charles Schwab also issued a statement on X about ongoing problems. “Due to a third-party, global, industry-wide issue, certain online functionality may be intermittently slow or unavailable. We’re actively monitoring the issue,” a representative for the company wrote.
+Cybercriminals are already capitalizing on the chaos from Friday’smassive global tech outageby promoting fake websites filled with malicious software designed to compromise unsuspecting victims, according to warnings from the US government and multiple cybersecurity professionals.
+Hackers have been setting up phony URLs meant to appeal to people seeking information on, or solutions to, the worldwide IT meltdown, but that in reality are designed to harvest visitors’ information or to breach their devices, the security experts said.
+The fraudulent sites use domain names that include keywords such as CrowdStrike —the cybersecurity firmbehind a faulty software update that led to the crisis — or “blue screen,” which is what computers affected by the CrowdStrike glitch display when they boot up.
+Thefraudulent sitesmay try to lure victims in by promising a quick fix to the CrowdStrike issue, or scam them with offers of fake cryptocurrency.
+In a bulletin about the outage, the Department of Homeland Security said it has witnessed “threat actors taking advantage of this incident for phishing and other malicious activity.”
+“Remain vigilant and only follow instructions from legitimate sources,” said the bulletin issued by the Department’s Cybersecurity and Infrastructure Security Agency. CrowdStrike has issuedits own guidanceon what affected organizations can do in response to the issue.
+
+CrowdStrike itself announced on Friday that it has observed hackers “leveraging the event as a lure.”
+Malicious actors have created fake websites, sent phishing emails impersonating CrowdStrike employees, and sold fake fixes to address the software bug, CrowdStrike added.
+“CrowdStrike Intelligence recommends that organizations ensure they are communicating with CrowdStrike representatives through official channels and they adhere to technical guidance the CrowdStrike support teams have provided,” the company wrote.
+The Dow fell 378 points, or 0.9%, on Friday as the tech outage continued to rattle investors. The S&P 500 and the Nasdaq Composite were down 0.7% and 0.8%, respectively.
+This has been a destabilizing week for US stocks. It’s just the latest session to see stocks oscillating this week, reaching new highs before swinging back down again.
+The S&P 500 posted a new record high on Tuesday. By Thursday, the index had logged its worst two-day decline since April — when Iran launched an attack on Israel. On Wednesday, the Nasdaq had its worst day since 2022.
+Investors have struggled to find their footing in recent days as they contend withan assassination attempton former President Donald Trump, rising odds that President Joe Biden will drop out of the election, attacks on Big Tech and chipmakers from both sides of the aisle and a global computer outage affecting airports, banks, hospitals and other businesses.
+The CEO of CrowdStrike promised customers “full transparency” on how the global IT outage involving the company’s software occurred.
+George Kurtz said on Friday that CrowdStrike would take steps “to prevent anything like this from happening again,” according to a statement on the company’s website.
+“We have mobilized all of CrowdStrike to help you and your teams” to recover from the outage, the embattled CEO told customers.
+But that could be easier said than done:Manual restarts of individual systems take time and expertise that some customers don’t have, which is why companies are slow to recover from the outage.
+“All of CrowdStrike understands the gravity and impact of the situation,” Kurtz added.
+“We are working on a technical update and root cause analysis that we will share with everyone as well,” Kurtz said in a separate post on X Friday afternoon.
+Iowa’s critical IT systems have been restored and state services have resumed as normal in the wake of the global outage caused by a software update from CrowdStrike, the state’s governor said.
+Iowa uses CrowdStrike software for malware and virus protection.
+“Iowa is fortunate to have robust cybersecurity capabilities. Today is a great example of the importance of investing in services that protect state infrastructure and improve service to Iowans,” Gov. Kim Reynolds said in a statement.
+
+Other states and citiesalso reported disruptions due to the outage.
+More effects of the global tech outage are coming to light, as blood centers are altering blood shipment methods and the number of flight cancellations continues to climb.
+If you’re just reading in now, here’s what you need to know:
+Blood centers affected:Some blood donation centers arechanging how they ship blooddue to flight delays. New York Blood Center, which supplies about 200 hospitals in the Northeast, initiated an emergency driving operation to distribute collected blood. And Blood Assurance is concerned for its planned shipment of at least 20 platelets — the disc-shaped fragments that help with clotting — due to flight issues.
+US flight cancellations:Nearly 9% of all American flights were canceled as of mid-afternoon on Friday, according to Cirium, an aviation analytics company. Even if a plane can take off Friday afternoon, most travelers will not reach their destinations on time. Cirium said 57% of flights in the US have departed with a 30-minute delay or greater.
+Drivers’ services:Texas driver’s license offices are closed across the state because of the ongoing outages. The state joins the list of other states who havelimited services or closures, including Tennessee, North Carolina and Georgia.
+Canadian outages:In British Columbia, the global outage continues to affect the networks and computers of theprovince’s health system, the Provincial Health Services Authority (PHSA) said. And, the Canada Border Services Agency temporarily experienced asystem outageearlier with its telephone reporting system, which is mostly used by small aircraft and boaters.
+Nevada gaming:BetMGM, an online sports betting company, said it’s experiencing temporary issues. Las Vegas-based Station Casinos also said its operations have been restored after the outage affected operations. The Nevada Gaming Control Board is monitoring the ongoing situation.
+When computers and tech systems around the globewent down Friday, many people had one question: How could this happen in 2024?
+A software update from a single cybersecurity company, US-based CrowdStrike, was the root cause of the chaos, underlining thefragility of the global economyand its dependence on computer systems to which relatively few people give a passing thought.
+CrowdStrike is everywhere:Numerous Fortune 500 companies useCrowdStrike’s cybersecurity softwareto detect and block hacking threats. Computers running Microsoft Windows — one of the most popular software programs in the world — crashed because of the faulty way a code update issued by CrowdStrike interacted with Windows.
+CrowdStrike, a multibillion-dollar firm, has expanded its footprint around the world in more than a decade of doing business. More businesses and governments are now protected from cyber threats because of this, but the dominance of a handful of firms in the anti-virus and threat-detection marketplace creates its own risks, according to experts.
+“We trust cybersecurity providers widely but without diversity; we’ve created fragility in our technology ecosystem,” Munish Walther-Puri, the former director of cyber risk for the City of New York, told CNN.
+
+CNN has requested comment from CrowdStrike.
+How to prevent this from reoccurring:The wide swath of critical infrastructure providers affected by the outage is also likely to raise fresh questions among US officials and corporate executives about whether new policy tools are needed to avoid catastrophe in the future.
+Anne Neuberger, a senior White House tech and cybersecurity official, spoke of the “risks of consolidation” in the tech supply chain when asked about the outage on Friday.
+The CrowdStrike episode “demonstrates the serious damage that could be inflicted by a malicious adversary if they were so minded,” Tobias Feakin, a former ambassador for cybersecurity and critical technology in the Australian foreign ministry, told CNN.
+Nearly 9% of all American flights were canceled as of midafternoon on Friday, according to Cirium, an aviation analytics company.
+Cirium reports that, as of 3:30 p.m. ET, 8.9% of all domestic US flights were canceled, or 2,382 total.
+Delta had the most flights canceled at 1,176 — or 23.5% of its schedule. United had 515 canceled flights, while American canceled 454 flights.
+Even if a plane is able to take off as early as Friday afternoon, most travelers will not reach their destinations on time. Cirium said 57% of flights in the United States have departed with at least a 30-minute delay.
+Drivers in multiple states are unable to access all services due to the global IT outage, according to authorities.
+Texas:Driver license offices across the state are closed “due to a technical issue” related to the tech outage, which is related to the global CrowdStrike incident,” Texas Department of Public Safety spokesperson Sheridan Nolen said.
+Nolen said teams are working to fix the problem, but “there is no current estimate” on when the offices will reopen.
+Tennessee:Tennessee’s Driver Services Centers may be unable to process transactions, the Tennessee Department of Safety & Homeland Security said Friday morning.
+“The Department of Safety and Homeland Security will provide updates as information becomes available. We apologize for the inconvenience the outage has caused,” the department said.
+North Carolina:The North Carolina Department of Transportation said Friday morning that all NC Department of Motor Vehicles driver license and plate agencies are “unable to assist customers this morning due to the current global Microsoft and CrowdStrike outage.”
+NCDOT added that the situation is being monitored “and will resume service once the global outage has been repaired.”
+Georgia:The Georgia Department of Driver Services is being impacted as well, according to a post by the agency to social media.
+“Due to the global Microsoft/Crowdstrike outage, DDS services are unavailable at this time,” the post reads.
+This post has been updated with information from Texas.
+Blood donation centers are experiencing issues with shipments and distribution during the global tech outage.
+A planned shipment of at least 20 platelets from Blood Assurance has been postponed due to flight delays and cancellations caused by the outage.
+“We are asking community members to help through donation,” Blood Assurance said to CNN in an email Friday. “We have a fantastic community of donors that always shows up when we need them.”
+
+Platelets are disc-shaped elements within the blood that assist in blood clotting, according to Blood Assurance. Platelets are used for things like bleeding during surgery, cancer treatments and aplastic anemia.
+New York Blood Center, a supplier of blood to approximately 200 hospitals in the northeastern United States, has put in place an emergency driving operation to distribute collected blood, Senior Vice President of Corporate Communications and Public Affairs Andrea Cefarelli said.
+“The test tubes are not making it onto planes from yesterday and today, requiring for us to drive them,” Cefarelli said to CNN in a phone call. “There is going to be a 12 to 24 hour delay in getting the test results.”
+
+Blood Centers of America, which relies on shipping companies like FedEx, is sharing a similar experience, as they are also seeing delayed testing results, Executive Vice President Jenny Ficenec said.
+Not affected:The American Red Cross has reassured patients and donors that it is not impacted by the outage as it does not use CrowdStrike software, but it is monitoring for any “indirect effects,” according to Nicole Maul, the director of media relations.
+OneBlood is also not experiencing issues and is fully operational for blood collections, Senior Vice President of Corporate Communications and Public Relations Susan Forbes said.
+After spending more than 19 hours at Atlanta’s Hartsfield-Jackson International Airport, one passenger won’t be getting home to Los Angeles anytime soon.
+“I couldn’t get another flight rebooked because the system is down, so I couldn’t get any vouchers for food, hotel, nothing,” Kiah Hampton told CNN’s Isabel Rosales on Friday afternoon.
+
+Hampton described sleeping on the floor at the airport after a previous flight was canceled last night, adding, “It seems like I am going to have to sleep here tonight.”
+Watch the full report:
+The Canada Border Services Agency experienced a system outage earlier with its telephone reporting system due to the ongoing global IT outage, but it has since been resolved.
+“Earlier today, the Canada Border Services Agency (CBSA) experienced a partial systems outage of its telephone reporting system. This issue is now resolved. Telephone reporting is a system primarily used by small aircraft passengers and boaters,” CBSA spokesperson Jacqueline Roby told CNN.
+Roby said the agency worked “urgently” to mitigate disruptions and to restore services “as quickly as possible.”
+“We are continuing to monitor further potential impacts. No CBSA systems are affected at this time,” Roby added.
+In British Columbia, the ongoing global IT outage is impacting the networks and computers of the B.C. health system, the Provincial Health Services Authority (PHSA) said.
+“The B.C. health system has been impacted by the global Crowdstrike disruption which is impacting our networks and computers across all systems. Our primary concern is the continuity and quality of patient care,” PHSA said in a statement. “We have implemented contingency plans to ensure that our health care services remain operational, and that patient care is not disrupted to the best of our ability.”
+
+According to PHSA, they provide “specialized health care services to communities across British Columbia.”
+The impacts of the global tech outage are still being felt across the US, causing anything from city connectivity issues and problems accessing patient records at hospitals.
+If you’re just reading in now, here’s what you need to know:
+States and cities reporting issues:While there’s been a fix to the issue causing the outage, multiple US cities are still feeling the impacts in a variety of ways.
+Hospitals and health systems:While mosthospitals remained opento treat medical emergencies, some were not able to access electronic medical records and order lab tests and prescriptions. Those facilities had to cancel patient appointments and surgeries.
+Package delays:Shipping companies United Parcel Service (UPS) and FedEx are warning customers there may be someservice delaysFriday because of the effects of the tech outage.
+The global tech disruption is impacting operations at Los Angeles County Superior Court and temporarily limiting inmate bookings in San Diego County, officials said.
+“The Court is experiencing significant system-wide connectivity issues that are impacting the Court’s ability to conduct business,” the Los Angeles Superior Court said in an email, adding hearings with parties expecting to appear remotely will be rescheduled.
+In San Diego, jail bookings were limited for a few hours while department officials employed back up systems.
+“We were able to resolve the challenges relatively quickly, thanks to our exceptional team of professionals in our Sheriff’s Data Services and Detentions Processing Divisions,” the San Diego County Sheriff said in an email. “These men and women worked closely with our Sheriff’s Communications Center, as well as our patrol and detentions deputies, to ensure essential services were not interrupted.”
+
+Elsewhere in California, “all 911, public safety communications and critical infrastructure is functioning as expected,” the state Office of Emergency Management said in a social media post.
+“At this time, there are no reports of impacts to life-safety public services in California,” the governor’s office said.
+A number of voting locations in central Arizona are impacted by a global power outage that has delayed health care, transport and broadcasting services.
+The Maricopa County Elections Department said it is “experiencing an outage at some voting locations,” in a message on itswebsite.
+Early voting in the state started on July 3, and Primary Election Day is on July 30. Maricopa County is the country’s fourth-largest county in terms of population, the website said.
+The global IT outage that impacted banking and travel on Friday also affected patient care at some hospitals and health systems.
+While most hospitals said they remained open to treat medical emergencies, some said an inability to access electronic medical records and efficiently order lab tests and prescription medications had caused them to cancel patient appointments and surgeries.
+Here’s what some hospital systems said:
+Large disruptions weren’t universal, however. Other major medical centers — including Johns Hopkins, MD Anderson Cancer Center, Houston Methodist, UC San Diego Health and the Veterans Affairs health system — said they were unaffected by the outages.
+Other places, such as Cleveland Clinic and UW Medicine, which is affiliated with the University of Washington, reported that while some of their technology had been impacted by the outage, patient care had not been affected. Memorial Sloan Kettering Cancer Center in New York recently said in an update that its “systems and procedures are now reinstated” after being paused earlier Friday.
+A spokesperson for the US Department of Health and Human Services said it is “working to assess the impact of the Crowdstrike outage on patient care and HHS systems, services, and operations,” along with federal, state, local and private sector partners.
+Electronic records systems:Epic Systems, a company that makes widely used electronic health records systems for hospitals and doctors’ offices, said on Friday that its Nebula cloud-based platform had been impacted by a Microsoft outage overnight and that some services, including telehealth visits, were not available during the outage.
+Another electronic medical records company, Veradigm, also said its systems were impacted by the CrowdStrike outage.
+CrowdStrike’s security software is running on countless individual computers all around the globe — which means the update that got pushed to those devices caused them all to shut down, virtually simultaneously.
+And in today’s networked economy, an outage in one part of a supply chain can cause domino effects up and down the line. When multiple parts of a supply chain go down, it touches off a cascade of problems.
+Some affected machines may be rarely serviced by people or located in remote areas. Others may not even have monitors or keyboards plugged in, because they don’t regularly require humans to directly interact with them.
+The most extreme examples may include weather monitoring sensors or devices in railway signal boxes, Andrew Peck, a cybersecurity expert at Loughborough University in the UK, said, which could require technicians to physically visit potentially hundreds of thousands of machines to perform the recovery process.
+Recovery will cost the world “thousands of hours and millions, potentially billions of dollars,” Peck said, which quickly adds up to “some very exhausted IT support teams burning budget they didn’t have.”
+
+Portland, Oregon, Mayor Ted Wheeler issued an emergency declaration Friday morning for the city due to the ongoing IT outage, according to a news release.
+He said the outage is impacting some city servers and employee computers.
+“The issue is causing computer outages and affecting multiple systems globally, impacting City servers in the City Data Centers as well as employee computers, with impacts to VPN connection and Single Sign On (SSO) to cloud services,” according to the release. “City services that rely on Microsoft Operating Systems using Crowdstrike Endpoint Protection, including certain essential City service providers, are impacted by the problem including emergency communications.”
+
+The governor of New York described impacts of the global IT outage on transportation links and health care facilities as an “unprecedented situation.”
+“Our top priority is emergency services. We are working with localities to ensure that 911 systems are operational,” Gov. Kathy Hochul said. The 911 system is working in all 62 state counties, according to Hochul.
+“This has a widespread impact on hospital systems as well,” shared Hochul, adding that “most have backup systems” which are “not technology-based” but rather manned by people.
+There is no indication of a cybersecurity threat or risk to personal sensitive information, Hochul said Friday.
+A senior White House cyber and tech official spoke to the CEO of CrowdStrike Friday to assess the impact of the global IT outage and confirm it wasn’t caused by a malicious attacker.
+Anne Neuberger, who is the deputy national security advisor for cyber and emerging technologies on the National Security Council, said the White House made a flurry of calls today to critical infrastructure firms in the US to get a sense of how disruptive the outage was.
+CrowdStrike CEO George Kurtz apologized to customers earlier Friday for a global IT outage caused by the cybersecurity firm’s software update.
+Neuberger said at the Aspen Security Forum that she has been involved in inter-agency meetings to assess any impact the outage was having on US government services, 911 systems and other critical functions. She did not offer an assessment of any possible impacts to those systems.
+“We need to really think about our digital resilience not just in the systems we run but in the globally connected security systems, the risks of consolidation, how we deal with that consolidation and how we ensure that if an incident does occur it can be contained and we can recover quickly,” Neuberger said. “There’s work to be done to build that resilience.”
+
+Shipping companies United Parcel Service (UPS) and FedEx are warning customers they could encounter some service delays due to the global IT outage hitting their systems on Friday.
+“At this time, our airline continues to operate effectively and our drivers are on the roads delivering for customers,” UPS said in its statement. “We are continuing to work to resolve all issues as quickly as possible; there may be some service delays.”
+
+FedEx said it has instituted its contingency plans to deal with the issues.
+“We are working diligently to lessen any impact on service, and we appreciate our customers’ patience,” FedEx said.
+
+This post has been updated with information from FedEx.
+This time-lapse shows all passenger flights over the US from midnight to 10 a.m. ET Friday, according to Flightradar24.
+Industries from airlines to health care are at a standstill, but one company is taking advantage of the blackout — Krispy Kreme.
+The North Carolina-based company is offering a free original glazed doughnut from 5 to 7 p.m. local time on Friday due to the global outage.
+“Sweet-ware Update Available! Does technology have you down today? Our windows are working great and so is our Hot Light!” the company posted onInstagramFriday. The doughnut chain noted the offer is only available at participating locations.
+
+Krispy Kreme frequently gives away doughnuts or offers deep discounts to grab attention toward the brand during major holidays or events.
+As frustrated passengers line up at airports backed up with flight cancellations and delays, countless businesses and government agencies are waiting for services to get back to normal after a global tech outage.
+If you’re just reading in now, here’s what you need to know:
+Flight woes grow:Passengers missing life events, like funerals and birthdays, are stuck in a holding pattern asUS flight issuescontinue. More than 2,000 flights have been canceled within, into or outside the US,according to FlightAware. And there are more than 5,300 flight delays as of noon ET. InLatin America, the outages caused delays for some carriers, while airlines inAustraliaare operating but with some delays.
+Resolution will take time:While the company behind the global computer outage has made a fix, the people affected at airports, businesses and government agencies will be feeling its impacts for a while. CrowdStrike’s software runs at such a deep level that getting affected systems and computers up and running poses a huge challenge. Some devices will need a manual rebooting.Read more on the process.
+CrowdStrike apologizes:Meanwhile, CrowdStrike CEO George Kurtzapologized to customersFriday for the outage caused by the cybersecurity firm’s software update. He said the company is working with those affected and stressed that this was not caused by a cyberattack.
+“We understand the gravity of the situation and are deeply sorry for the inconvenience and disruption,”Kurtz posted on X.
+
+The number of flights canceled within, into or outside of the United States has climbed to over 2,000,according to FlightAware.
+The number of US delays is more than 5,300 as of noon ET.
+Delta has canceled at least 640 flights, and Hartsfield-Jackson Atlanta International Airport currently has the most cancellations in the US with 226.
+Therapy dogs are making the rounds at George Bush Intercontinental Airport in Houston, Texas, as aglobal IT outagedisrupts air travel across the country and the globe.
+“Volunteers make all the difference! Our #IAHTherapyDogs 🐶 are up early on their day off, making their rounds to bring passengers some joy and comfort as our airline partners continue to work to reestablish their service operations,” the airport said in aposton X.
+
+The dogs, named Clyde and Oliver, are offering support to travelers in the terminals, a spokesperson said. Over 350 flights have been delayed and nearly 100 flights were canceled at the transit hub Friday as of 12 p.m. ET,according to FlightAware.com.
+Passengers at Hartsfield-Jackson Atlanta International Airport have had their travel plans upended by delays from the global IT outage, with some unable to get to family emergencies or special occasions.
+“Nobody was really giving us answers. They just said, ‘Our system’s down, our system’s down,’” Jennifer Small told CNN.
+
+The New Jersey resident slept at the airport overnight and has had her flight canceled twice. “I want to get home to my son. I want to get home to Jersey,” Small said, adding she doesn’t believe she will be able to travel home until Saturday.
+Ty Kelley was traveling to Philadelphia to attend a funeral. “It’s wild, it’s crazy, it’s crowded — I have anxiety right now,” she said. “I’m going to wait in this long line and try and get to Philadelphia today.”
+Another passenger told CNN she had been traveling with her toddler to Boston for a birthday party. “It has been frustrating to say the least,” Miya Haney said.
+Haney described the manual check-in process her airline, Spirit Airlines, was using. “They’ll send a person going up and down shouting, ‘Boston here, flight number here.’ I have no idea when we are going to get called next and I’m just beyond frustrated.”
+Airport officials previously told CNN they expected 300,300 passengers to pass through Hartsfield-Jackson on Friday. The major transport hub leads all airports for canceled flights, with more than 384 eliminated in or out of the Atlanta airport.
+The company behind a massive computer outage across the world says a flawed update has been rolled back — but that doesn’t necessarily help the thousands of businesses that have been affected by the glitch.
+Here’s why:The CrowdStrike software issue at the heart of the outage runs at such a deep level in affected computers and systems that getting them up and running just to be fixed will be, in many cases, an enormous challenge.
+That’s compounded by the fact that many of the servers that may contain information needed to get these systems working again are themselves caught in a cycle of crashing and rebooting.
+The CrowdStrike software at fault operates at what’s called the kernel level of a computer, a much deeper level than what more ordinary applications such as browsers or video games do. This portion of a device has much greater visibility and control over a computer and its components, making it critical for the operation of all other systems — and far more sensitive.
+Running at the kernel level means CrowdStrike’s software can do more to detect cyberattacks, but it also means the current bug is causing Windows computers to crash to a “Blue Screen of Death” before users can take any actions to correct it.
+Manual rebooting:The issue appears to be recoverable, CrowdStrike has said, but in many cases it requires painstaking work. Each affected device must be accessed by an administrator and manually rebooted into safe mode. Then, the offending CrowdStrike file must be deleted by hand.
+For businesses with hundreds or thousands of laptops, desktops and servers running CrowdStrike’s security software, an individual human may have to perform that process over and over and over again.
+And organizations that take security seriously will have likely encrypted their computers’ hard drives, making it even more challenging to access the file that needs to be deleted.
+After a tech outage spread across the world in the overnight US hours, the effects are still being felt hours later across businesses, airlines and critical services.
+If you’re just reading in now, here’s what you need to know:
+Airline woes for passengers:Passengers are waiting in long lines from London’s Gatwick Airport to Atlanta’s Hartsfield-Jackson International Airport. Airlines are canceling flights and experiencing delays as the ripples of the outage continue.
+So far,more than 1,700 flightsinto or out of the United States have been canceled as of 11 a.m. Friday,according to FlightAware.com.And, almost 4,500 flights into or out of the US have been delayed.Read more on specific US airports. Airlines acrossEuropeandAsiaare also seeing flight disruptions, various carriers said.
+911 communications affected:The full reach of the outages is not yet clear nationally, but theFederal Communications Commissionsaid it is still working to assess the impacts. There have been reports of 911 outages in various states, like Alaska, and cities, like Phoenix, where the system was down for hours but has since been restored. Meanwhile, in New York City, 911 services are working.
+Public services closures:A number of government services to the public are either closed or facing effects of the outages in parts of the US.
+Some states — Tennessee, North Carolina and Georgia – reported theycannot access some of their drivers’ services. And Social Security offices are closed today after the outage shut down some of its services, the agency said, and longer than normal wait times are expected when calling its 800 phone number.
+CrowdStrike CEO George Kurtz apologized to customers Friday for a global IT outage caused by the cybersecurity firm’s software update.
+“We understand the gravity of the situation and are deeply sorry for the inconvenience and disruption,”Kurtz posted on X.
+
+Kurtz reiterated that the outage was not caused by a security breach or a cyberattack, and maintained that CrowdStrike’s customers were “fully protected.”
+“We are working with all impacted customers to ensure that systems are back up and they can deliver the services their customers are counting on,” he said, reiterating that the cause of the outage was not malicious, but instead a software update issued to certain CrowdStrike customers who use Microsoft Windows.
+
+An international IT outage has impacted health care, travel and broadcast infrastructure worldwide.
+Here are the airports and airlines affected in Latin America:
+Officials in New York and New Jersey are still working with local agencies to address the impact of this morning’s global technology outage.
+There’s not currently a timeline for the full restoration of services, according to a statement from New York’s chief cyber officer Colin Ahern.
+Ahern noted that, while Microsoft says theunderlying cause of the issues has been fixed, local governments and service providers are still working through the problems impacting their systems.
+Ahern said the state’s priority was to “ensure all 911 systems across New York are operational and able to address emergency response needs.”
+In New Jersey, Gov. Phil Murphy has been briefed on the outages and is coordinating with local governments, 911 call centers and utilities to assess the impact on the state and offer assistance, he said in a statement released Friday.
+Classes are canceled at all Texas A&M University locations Friday following a global outage involving the cybersecurity firm CrowdStrike, the school said in analertFriday.
+“This outage was caused by a faulty update to the application and causes Windows computers to enter a reboot loop,” the update said. “This wasnotcaused by a cyberattack, but rather a technical issue with the vendor.”
+
+Meanwhile, all campus locations remain open with operations as planned, according to the school.
+The university’s main campus is in College Station, Texas, and ithas other locationsin the state.
+Tech disruptions around the world have left flights grounded, businesses struggling with IT issues, and customers unable to access tech services.Here are some companies affected so far:
+This post has been updated with additional reporting on the outage and disruptions
+The London Stock Exchange told CNN that its real-time platforms are back up and running after a four-hour outage caused by “a third-party technical issue.”
+The disruption affected the LSE’s news service and FTSE Russell real-time indexes, a spokesperson said.
+Meanwhile, Euronext, the pan-European stock exchange, has mostly avoided disruption.
+“Trading and market data on Euronext’s exchanges, clearing and post-trade operations are not impacted,” it said.
+Earlier in the day, there was an issue affecting several indexes with North American market stocks but it has now been resolved for most of those indexes, the exchange noted.
+This post has been updated with additional details on the outage.
+Flight cancellations into or out of the US have climbed over 1,700 flights as of 11 a.m ET on Friday,according to FlightAware.com.
+In addition to the 1,758 flights canceled, 4,473 flights into or out of the US have been delayed today.
+Delta tops the list of airlines with 546 cancellations, and Hartsfield-Jackson Atlanta International Airport currently has the most cancellations in the US.
+The Federal Communications Commission is still working to assess the reach of communications interruptions associated with the global IT outage, the agency said ina post on XFriday.
+There have been reports of 911 outages in different jurisdictions throughout the country.
+“We’re working closely with other federal agencies to provide assistance and determine the extent of these service disruptions,” it said.
+Passengers traveling through Los Angeles International Airport are experiencing a “mixed bag” of delays and cancellations due to the tech outage, an airport spokesperson told CNN.
+“We haven’t escaped the impact,” said LAX spokesperson Dae Levine.
+
+Several key airlines at LAX — American, Delta and United — were impacted by the outage. American flights are mostly back online, Delta’s are coming back now, and United’s flights will hopefully follow suit soon, Levine said, in summary.
+Levine did not have an estimate on how many passengers were affected and was not aware of any impacts to security or air traffic control.
+Here’swhat other US airports have told customersthis morning.
+The Social Security Administration closed its local offices to the public on Friday after a global outage shut down numerous services. The agency saidin a statementthat it expects longer wait times for the national 800 number, and some online services may be unavailable.
+In an internal memo to staff, the agency said employees “should work on internal agency workloads” while they work to restore services.
+Thousands of companies around the world are struggling with payment processing this morning as a global IT outage brought down systems across a wide range of businesses.
+Mastercard and Visa said their payment processing systems are operational.
+But here’s why companies are still struggling to accept payments:
+Making a digital payment involves “a chain” of computers and, if any one of them is down, the transaction will not complete, according to Andrew Peck, a cyber resilience researcher at Loughborough University in the United Kingdom.
+“Let us imagine that I buy a coffee in a retail coffee chain. My card will be read by a contactless or chip-and-pin device … the data from this transaction will then be shared in different ways with both Mastercard/Visa and the shop’s own … (electronic sales) system,” he told CNN.
+
+“There are a lot of computers in this chain, and usually the larger the business, the larger the chain.”
+The outage highlights “just how complex and interconnected the modern digital economy is,” he added.
+
+Capital Economics, an economic research business, has provided an early assessment of the wider consequences of the disruption.
+“While things are still very uncertain, we do not anticipate a major macroeconomic or financial market impact at this stage,” Jennifer McKeown, chief global economist at the consultancy, wrote in a note.
+“Those sectors operating with strong IT support systems will be best-placed to experience only minor, short-lived effects. This might explain why there has been little impact on financial markets so far… Another reason for the muted impact in markets is that the founder and chief executive of CrowdStrike itself has ruled out the possibility that this relates to a cyber attack. Accordingly, the risk of prolonged disruption is lower,” she wrote.
+
+US markets were lower on Friday morning after a global computer outage hurt tech stocks, which were already experiencing a steep drop this week.
+The open also follows a report that said the Biden administration is considering heightening semiconductor trade restrictions between the US and China.
+This week has been a volatile one for stocks:The S&P 500 posted a new record high on Tuesday. By Thursday, the index had logged its worst two-day decline since April.
+The Dow was 214 points, or 0.5% lower. The S&P 500 was down 0.1%. The Nasdaq Composite lost 0.2%.
+The city of Philadelphia says it has been impacted by the international IT issue, but its “911 and life and public safety systems remain functional.”
+“City staff and employees are to still report to work to assist with critical support tasks related to the outage,” according to a statement.
+Meanwhile, traveler William Sikora, who is at Philadelphia International Airport and trying to fly home to Los Angeles today, told CNN it’s “only getting crazier here now.”
+Sikora added that as people sit near their gates, it’s getting “really hot in here; not fun.”
+He was originally scheduled for a 6 a.m. ET flight on Delta. He now says the airline keeps pushing flight times back.
+As of 9:55 a.m. ET, there have been more than 1,384 cancellations into or out of the US, including at least 39 cancellations at Philadelphia International Airport, according to flight-tracking softwareFlightAware.
+The global cyber outage that caused disruptions to airlines, businesses and emergency services on Friday could be the “largest IT outage in history,” according to cybersecurity expert Troy Hunt.
+“I don’t think it’s too early to call it: this will be the largest IT outage in history,” Hunt said in a post on X on Friday.
+“This is basically what we were all worried about with Y2K, except it’s actually happened this time,” he added.
+
+Other recent large outages:
+US President Joe Biden has been briefed on the outage and his team is in touch withCrowdStrikeand impacted entities, according to a White House official.
+The president’s team is also engaged with agencies “to get sector by sector updates throughout the day and is standing by to provide assistance as needed,” according to the official.
+Biden remains at his residence in Rehoboth Beach, Delaware, where he’s self-isolating aftertesting positive for Covid-19.
+The Phoenix Police Department’s 911 call center is now operational and “systems have been restored” following a widespread outage that began last night, the department said in anupdateon X Friday.
+“If you called for non-emergency police assistance during the outage, please be patient as we work through those calls,” the update said.
+Global outages “could be causing delays” in some LATAM Airlines flights, the Chilean carrier announced on Friday.
+Passengers should “preventively” check their flight status ahead of any scheduled departures, LATAM said ina post on X.
+Panama-based Copa Airlines also said some flights might be delayed inan X poston Friday.
+The airline asked passengers to “go to the airport at least 4 hours before your departure.”
+The New York Stock Exchange expects a smooth start to the trading day on Friday, despite a tech outage affecting airlines, banks and businesses worldwide.
+“NYSE markets are operational and we expect a normal open this morning,” the exchange said in a statement.
+
+US markets open at 9:30 a.m. ET.
+The US Department of Homeland Security says it is “working with CrowdStrike, Microsoft and our federal, state, local and critical infrastructure partners to fully assess and address system outages” ina statement on X.
+The global IT outagehas affected major services worldwide and has particularly disrupted flight operations at major airports.
+Here’s what some airports across the US are telling their customers at the moment as flight delays and cancellations contiue:
+Hartsfield-Jackson Atlanta International Airport: Airside operations are working, although some customer-facing airlines “are dealing with a few challenges,” amid the ongoingglobal computer outage, Andrew Gobeil, who oversees public affairs outreach at the airport, told CNN.
+“We know that this is uncomfortable. It’s Atlanta, it’s the summer. It is hot, it is humid. People are a little on edge,” Gobeil said. “Have patience. We’re trying to have grace and patience with all of the passengers. We’re asking the same. If there are challenges that are impacted, if people are going to be delayed and have to spend an extra amount of time here at Hartsfield Jackson – work with the airlines, work with our customer service representatives.”
+Dallas Fort Worth International Airport: “Due to the global technology issues impacting multiple airlines, we anticipate significant delays and cancellations throughout the day,”the airport said. “We ask customers to verify your flight status with your airline prior to heading to the airport. Longer lines are possible so allow extra time.”
+Chicago O’Hare International Airport: The airport advised passengers to check their flight status directly with their carrier due to the tech issues. “Longer lines and wait times are possible, please allow extra time,”it said.
+John F. Kennedy International Airport: “The Port Authority is not affected by the ongoing global network outage, but some airlines are experiencing delays/cancellations. DO NOT head to the airport unless your flight status is confirmed,”the New York airport said.
+Charlotte Douglas International Airport: The airport advised passengers not to come to the airport “unless they have confirmed their flight information with the airline.”
+Miami International Airport:Officialsadvisedthat US Customs and Border Patrol operations are being affected nationwide, “so international passenger arrivals are currently being processed manually at a slower pace.”
+As many as 300,000 passengers will travel through Hartfield Jackson International Airport on Friday, according to a spokesperson, as an IT outage causes delays in the world’sbusiest flight hub.
+“We collaborate and work with our airlines,” Andy Gobiel told CNN’s Isabel Rosales, adding that the airport has additional customer service personnel to address the challenges. “We are being impacted, it’s obvious. But we’re doing everything we can to make sure those impacts are mitigated.”
+
+At least 104,000 travelers are being screened through security, Gobiel added. He asked passengers to have “grace and patience” with the airlines, adding that they are their “most important partners,” in addition to carriers and law enforcement.
+Over 3,500 cameras are spread across the airport, according to Gobeil, who says they are well prepared for “monitoring everything.” Airport operations teams and customer service members have been deployed to crowded areas to answer customers’ questions, he added.
+The US Department of Justice is experiencing some impacts from the technology outage caused by CrowdStrike, according to an internal memo viewed by CNN.
+The memo says the department is searching for workarounds but warns staff that the CrowdStrike issue “is significant and there is currently no estimated restoration time.”
+While communications are not impacted on phones and tablets, some applications used by the department, like Microsoft Office programs, may not be accessible to users, according to the memo.
+The Justice Department “alerted users this morning that DOJ is among businesses and government users worldwide affected,” according to the statement.
+Delta Air Lines has resumed some flight departures after the global tech outage impacted airlines and businesses around the world, the airline reported Friday morning.
+Delta has issued a travel waiver for all customers who have booked flights departing today, according to an 8 a.m. ETupdate from the airline. As part of the waiver, fare differences will be waived when rebooking travel on or before July 24 in the same cabin of service.
+Additional delays and cancellations are expected Friday, and customers are asked to monitor and manage their itineraries on Delta.com or their airline’s app.
+Earlier today, Delta said it has “paused its global flight schedule” due to the IT outage.
+Transport infrastructure across Italy, including trains, airports and highways, have been impacted by a sweeping outage.
+In the Italian city of Genoa, long haul semi-trucks waiting to offload cargo at the Port of Pra were lined up nearly 20 kilometers (about 12 miles), the port authority said Friday. The tech outage caused the automated gate system to malfunction.
+Further north, in Florence, Italy’s Trenitalia and Italo train networks were also suspended after systems went offline, the Transport ministry said. Passengers called emergency services and demanded to be let off the trains because of extreme heat, after enduring delays up to 140 minutes. Trains on rural rail lines have been stopped due to extreme heat.
+Milan’s FTSE MIB stock market confirmed that it is unable to update figures.
+Elsewhere, Italy’s major airports in Rome, Bologna, Milan and Palermo did not report infrastructure problems, but are experiencing major delays caused by other issues impacting takeoff and landing schedules.
+Italy’s autostrada highway service ‘Autogrill’ also experienced malfunctions but were able to switch to manual systems for petrol and other services.
+The country’s highway toll system also experienced delays with automated Telepass lanes, which utilize card readers tied to an international network.
+Mass tech outages worldwide have caused IT systems to shut down, sparking delays and issues at European airports as well as affecting other transport links.
+Here are the affected airports and airlines in Europe:
+Tech outages scrambled operations across the world Friday, and airports bore the brunt of that struggle.
+From Manila to Berlin to Newark, pilots, crew members and passengers were left stranded at airports as the outagescaused major delays and cancellations.
+Here’s what the scene looks like at airports across the globe:
+The United Arab Emirates Ministry of Foreign Affairs has restored its electronic systems to normal following a global tech outage, the ministry said Friday.
+The ministry said attestation services would also continue.
+A major East Coast airport has urged passengers not to come to the airport “unless they have confirmed their flight information with the airline.”
+Charlotte Douglas International Airport is one of nine nationwide American Airlines hubs.
+At Miami International Airport, another American Airlines hub, officials say US Customs and Border Patrol operations are being affected nationwide, “so international passenger arrivals are currently being processed manually at a slower pace.”
+Public transport in New York City, including bus and train services, are not affected by the outage, according to the local transit authority.
+However, countdown clocks in stations are not working and customers may find that some functions in apps are unavailable, the city’s Metropolitan Transit Authority said.
+The MTA oversees the New York City’s subway and bus systems; the Long Island Railroad, which services Long Island; and the Metro-North Railroad, which services Connecticut and upper New York.
+At airports across the globe, airline staff are scrambling to reassure customers and try to provide some clarity on when – or if – their flight might finally be able to take off. Some are resorting to paper-based systems to try to speed up the process while the IT system is down.
+While staff might be able to console customers, they can do little until the computer systems are fully operational again, said Mary Schiavo, a CNN aviation analyst and former Inspector General at the US Department of Transportation.
+“The lines at certain airports are literally out the door. So it’s having a pretty big impact. People are clinging to hope that the fix for the computer problem has been put in place,” Schiavo told CNN.
+But she said “you cannot fly” without a fully operational IT system. “Other than putting a bag tag on, it’s all computer,” she said.
+“While people on the ground at the airport can do their best to help people, try to do whatever they can for them, literally getting a plane off the ground without a computer is virtually impossible,” she said.
+
+Theglobal computer outageaffecting airports, banks and other businesses on Friday appears to stem at least partly from a software update issued by major US cybersecurity firm CrowdStrike, experts told CNN.
+CrowdStrike told customers early Friday that the outages were caused by “a defect found in a single content update” of its software on Microsoft Windows operating systems, according to apost on Xfrom CEO George Kurtz.
+CrowdStrike’s cybersecurity software — used by numerous Fortune 500 companies, including major global banks, health care and energy companies — detects and blocks hacking threats.
+The company said the outage was not caused by a security incident or a cyberattack. Kurtz, in his post, said the issue was identified and isolated, and engineers deployed an update to fix the problem.
+CrowdStrike’s (CRWD) stock fell 10% in premarket trading.
+Read more aboutCrowdStrike here.
+The president and CEO of CrowdStrike, George Kurtz, has apologized for the impact of worldwide outages caused by a software update issued by the company, which has disrupted critical health care, travel and broadcasting services.
+Speaking on NBC’s Today, Kurtz said: “We’re resolving, and have resolved the issue now.
+“As systems come back online, as they’re rebooted, they’re coming up and they’re working,” he added. “And now we are working with each and every customer, to make sure that we can bring them back online.”
+A Microsoft operating system had been impacted by the update, Kurtz clarified, saying that his company would have to further investigate “the way some of these operating systems work.”
+“And as you might imagine, we’ve been on with our customers all night and working with them. Many of the customers are rebooting the system, and it’s coming up and it’ll be operational because we fixed it on our end, and some of the systems that aren’t recovering, we’re working with them,” he told NBC.
+“It is our mission, it’s why we’re here, to make sure that every customer is fully recovered, and we’re not going to relent until we get every customer back to where they were. And we continue to protect them and keep the bad guys out of their systems,” he added.
+“We’re deeply sorry for the impact that we cause to customers, to travelers, to anyone affected by this including our companies.”
+
+A global IT outage has swept major services worldwide, disrupting public transport links, delaying international flights and restricting operations for health care facilities and businesses.
+Here’s what you need to know:
+What is behind the outage?The outage appears to stem at least partly from asoftware updateissued by Crowdstrike, on Microsoft Windows systems. The US cybersecurity firm told customers early Friday that engineers were addressing the problem, according to an advisory viewed by CNN. The issue is specific to Falcon, which is designed to protect files saved in the cloud.
+How long will the outage last?Microsoft said the “underlying cause” of the outage “has been fixed,” adding that residual impact is still affecting some services. “We’re conducting additional mitigations to provide relief,” the tech company said in a post on X. Some services havebeen restored, but others are still grappling withthe disruptions.
+Who has been affected?Global banks, medical services and critical infrastructure have been impacted by the outage.Medical providersincluding the UK’sNational Health Service, and one of Europe’s largesthealth facilitiesin northern Germany, have been stifled by IT delays. Meanwhile,banks,broadcasting outletsandsupermarketsin Australia, New Zealand and the UK were affected, includingABC NewsandSky News.
+Airlines worst hit:Scenes emerged of flustered travelers fillingthe corridorsof major airports on Friday, as US and other international carriers inEurope,Asiaand theMiddle Easthad to delay and cancel flights. There are around 110,000 scheduled commercial flights today worldwide, according topreliminary datafrom Cirium, an aviation analytics company, shared with CNN. As of 6 a.m. ET, there were 1,390 canceled flights globally. That figure is growing.
+International response:The White House says it is“looking into”the disruption caused by Friday morning’s cyber outages. “We’re aware of the incident and are looking into the issue and impacts,” a White House National Security Council spokesperson told CNN. Meanwhile, the UK government held an emergency meetingto discussthe outage, Downing Street said, according to the UK’s PA Media news agency.
+The UK government held an emergency COBR meeting to discuss the global tech outage, Downing Street said Friday, according to PA media.
+“We recognise the impact this is having on services and the Government is working closely with the respective sectors and industries on this issue, which is affecting services not only across the UK but also globally,” a Downing Street spokesperson told reporters on Friday, PA reported.
+
+The spokesperson added that she is not aware of any government business being hit by the outage.
+Asked why British Prime Minister Keir Starmer did not chair the meeting of the committee, the spokesperson said the Prime Minister “has had bilaterals with President Zelensky and Cabinet this morning, but all ministers including the Prime Minister are being kept informed with the latest.”
+Cabinet Office Briefing Room (COBR) meetings bring together a committee of government department representatives to discuss the nation’s emergency response to crises.
+The White House is “looking into” the disruption caused by Friday morning’s cyber outage that has hit airlines and businesses around the world.
+“We’re aware of the incident and are looking into the issue and impacts,” a White House National Security Council spokesperson told CNN.
+
+The outage appears to stem at least partly from a software update issued by firm CrowdStrike, experts tell CNN. The CEO of CrowdStrike said that the IT issue causing a global outage has been identified and that a fix has been deployed.
+There are no indications at this time of malicious activity, though the administration is still investigating, according to a source familiar.
+Delta Air Lines says it has “paused its global flight schedule” due to the IT outage that has hit airlines and businesses worldwide.
+“We are working to resolve the issue as quickly as possible to resume operations,” Delta said in a statement Friday.
+
+The airline says it intends to issue new travel waivers for impacted customers.
+Emergency communication services were down in several states on Friday morning following a global IT outage affecting airports, banks and other businesses.
+Police inPhoenix, Arizona,said the outage had impacted the Phoenix Police Department’s computerized 911 dispatch center, but the 911 center remained operational.
+“If you need to call 911, stay on the line if you are put on a brief hold. City IT is working diligently to find a workaround until the outage has been restored,” police said on X.
+InAlaska, many 911 and non-emergency call centers aren’t working correctly across the state, Alaska State Troopers said in a Facebook post.
+InNew Hampshire, some 911 services were down overnight across the state but have since been restored, New Hampshire 911 said.
+Meanwhile, theNew York Citymayor’s press secretary said critical infrastructure and emergency operations, including the 911 call system, have not been impacted.
+Fabien Levy, deputy mayor for communication for mayor Eric Adams, told CNN that, since the outage impacts Windows-based devices receiving automatic updates, the NYC Office of Technology and Innovation has been working the past few hours to halt any forthcoming updates and minimize potential disruptions.
+CNN has reached out to the Federal Communications Commission for more information on nationwide 911 outages.
+The failure of IT systems across the world have caused delays and issues at airports across Asia, causing several airlines to ground flights.
+Here’s a look at how the outage is affecting airports and airlines in Asia:
+Microsoft said the “underlying cause” that caused the global outage “has been fixed,” adding that residual impact is still affecting some services.
+“The underlying cause has been fixed, however, residual impact is continuing to affect some Microsoft 365 apps and services,” Microsoft said in a post on X Friday.
+
+“We’re conducting additional mitigations to provide relief,” the post added.
+More on what’s behind this:The outageappears to stemat least partly from a software update issued by firm CrowdStrike, experts tell CNN. The CEO of CrowdStrike said that the IT issue causing a global outage has been identified and thata fix has been deployed.
+Poland’s largest container terminal, Baltic Hub, has restored its operations after being hit by the tech outage earlier on Friday.
+The facility in the port city of Gdańsk in Poland said on Facebook that “the outage has been resolved and operations at the terminal have been restored.”
+
+Earlier Friday, Baltic Hub said on its website it was “struggling” with “a global Microsoft operating systems failure,” which was “hampering the terminal’s operation.”
+Baltic Hub is Poland’s “largest and fastest growing container facility, and the only deep-water terminal in the Baltic Sea Region,” according to the its website.
+William Sikora III tells CNN that the current situation at Philadelphia International Airport is “absolutely insane right now” as passengers are impacted by a tech outage affecting flights around the world.
+Sikora was attempting to fly back home Friday morning to Los Angeles and said the outage is already ruining his day with lines moving nowhere as he and thousands others at the airport wait for answers.
+He said even if flights are just delayed, he expects many delays are going to eventually become canceled flights.
+Sikora told CNN that people have gotten through security, “but all are just hanging out. We’re all in the same boat. Hoping systems come back.”
+
+And if they don’t, Sikora said he will have to have family drive nearly an hour to come get him at the airport.
+Public transport including trains and buses in Washington, D.C. have been impacted by Friday’s outages, the US capital’s transit authority has said.
+The website for the Washington Metropolitan Area Transit Authority (WMATA), and a number of internal systems are “currently down,” according toa post on X, which said: “Our IT teams are working to address this issue.”
+Trains would be held up from their normal 5 a.m. start time, WMATA added, also citing potential bus delays. The MetroAccess call center is down and anyone with a reservation will be contacted if their trip is canceled, the public transportation authority reported.
+The Federal Aviation Administration (FAA) is “closely monitoring” the cyber outage Friday morning that has hit airlines and businesses globally.
+“The FAA is closely monitoring a technical issue impacting IT systems at U.S. airlines. Several airlines have requested FAA assistance with ground stops until the issue is resolved,” the agency wrote in apost on social media.
+
+Major US carriers, including Delta, United and American Airlines, have had flights grounded, according to the FAA. International airlines, including Virgin Australia and Qantas, have also seen disruptions.
+The CEO of CrowdStrike, a cybersecurity firm that has Microsoft among its clients, says the IT issue causing a global outage has been identified and that a fix has been deployed.
+CNN has also reached out to the White House about the outages.
+One of Europe’s largest medical care facilities, located in Germany, has been implicated by the cyber outage.
+The German University Medical Center Schleswig-Holstein (UKSH) canceled all elective procedures on Friday, according to a statement on its website.
+Both locations in the cities of Kiel and Lübeck, northern Germany, have been affected. Outpatient clinics are also closed.
+The “care of patients at the UKSH is secured, as is emergency care,” the statement added.
+The CEO of cybersecurity firm CrowdStrike said a fix for the global tech outage was on the way — but until the issues are resolved, they’re causing chaos at airports across the globe.
+Cirium, an aviation analytics company, shared preliminary data with CNN on Friday about the extent of the disruption.
+A global tech outagehas caused delays and issues with airlines across North America.
+Here’s the latest on what we know so far:
+Dubai International Airport, one of the world’s busiest aviation hubs, resumed its normal operations following global IT outages, the airport announced on Friday.
+“We’re now back to operating normally following a global system outage that affected the check-in process for some airlines in Terminals 1 and 2 this morning,” the airport said in aposton X.
+
+Government affected:But the United Arab Emirates Ministry of Foreign Affairs said on Friday that a global technical issue has affected some of its electronic systems, including its attestation service.
+“We advise all clients to refrain from conducting any transactions until this issue is resolved,” the ministry said in aposton X.
+CrowdStrike CEO George Kurtz said that the IT issue causing a global outage has been identified and that a fix has been deployed.
+Kurtz said the cybersecurity company is working with “customers impacted by a defect found in a single content update for Windows hosts” and that the issue was “not a security incident or cyberattack.”
+Here’s his full statement:
+“CrowdStrike is actively working with customers impacted by a defect found in a single content update for Windows hosts. Mac and Linux hosts are not impacted. This is not a security incident or cyberattack.“The issue has been identified, isolated and a fix has been deployed.“We refer customers to the support portal for the latest updates and will continue to provide complete and continuous updates on our website. We further recommend organizations ensure they’re communicating with CrowdStrike representatives through official channels. Our team is fully mobilized to ensure the security and stability of CrowdStrike customers.”
+
+The global computer outage affecting airports, banks and other businesses on Friday appears to stem at least partly from a software update issued by  firm CrowdStrike, experts told CNN.
+CrowdStrike told customers early Friday that it was “aware of reports of crashes” of its software on Microsoft Windows operating systems, according to a company advisory viewed by CNN.
+The company’s engineers took action to address the problem, according to the advisory, which told customers to reboot their computers and perform other actions if they were still having technical issues. The issue is specific to Falcon, one of CrowdStrike’s main software products, and is not impacting Mac or Linux operating systems, according to the advisory.
+CrowdStrike’s cybersecurity software — used by numerous Fortune 500 companies — detects and blocks hacking threats. Like other cybersecurity products, the software requires deep-level access to a computer’s operating system to scan for those threats. In this case, computers running Microsoft Windows appear to be crashing because of the faulty way a software code update issued by CrowdStrike is interacting with the Windows system.
+CrowdStrike is perhaps best known for investigating the Russian hack of Democratic National Committee computers during the 2016 US election. But the multibillion-dollar firm does business around the world through software sales and investigations of major hacks.
+CNN has requested comment from CrowdStrike.
+American Airlines has resolved a technical issue that impacted their services Friday morning, the airline said.
+“Earlier this morning, a technical issue with a vendor impacted multiple carriers, including American. As of 5 a.m. ET, we have been able to safely re-establish our operation. We apologize to our customers for the inconvenience,” the airline said in a statement to CNN.
+The UK’s National Health Service (NHS) said the IT outages have affected most GP practices in England, but there is no known impact on emergency services.
+“The NHS is aware of a global IT outage and an issue with a GP appointment and patient record system,” NHS England said Friday.
+It said it has “long standing measures in place to manage the disruption, including using paper patient records.”
+NHS England encouraged people to use emergency services “as they usually would.”
+The global tech outage has caused some Metropolitan Transportation Authority (MTA) customer information systems to go temporarily offline Friday morning, according to officials.
+“Train and bus service is unaffected,” the MTA said in apost. “Please listen for announcements in your station, on your train, or on your bus.”
+The MTA is North America’s largest transportation network,according to its website, and serves a population of 15.3 million people.
+India’s Ministry of Electronics and Information Technology said the reason for the ongoing tech outage has been identified and “updates have been released to resolve the issue.”
+The ministry “is in touch with Microsoft and its associates regarding the global tech outage,” Ashwini Vaishnaw, India’s minister for railways, information and broadcasting, electronics & information technology, said via X on Friday.
+The Jaipur International Airport in the western Indian state of Rajasthan said earlier that “flights nationwide ” have been affected by the outage.
+Chhatrapati Shivaji Maharaj International Airport in the financial capital of Mumbai also shared an advisory via X, saying “select airline operations” were affected, including “booking, check-in, access to boarding passes and flights.”
+Delhi’s Indira Gandhi International Airport and six Indian airlines have also reported technical difficulties, resulting in the disruption of their services.
+Budget airlines at South Korea’s Incheon International Airport are experiencing delays in check-in and boarding procedures due to internal system failures, an airport spokesperson said.
+Air Premia,Jeju Air,EastarJet,JetstarandHong Kong Expressairlines are experiencing delays in issuing boarding passes at check-in counters and during boarding procedures, the spokesperson said.
+The airlines use computer systems based on Microsoft’s cloud service. Incheon International Airport does not use the Microsoft system, and so is not experiencing any disruptions, its spokesperson told CNN.
+The South Korean flag carrier Korean Air said it uses Amazon Web Services (AWS) and was not affected by the outage.
+CrowdStrike stock plummeted by more than 18% in pre-market trading on Friday in New York, indicating heavy selling pressure that could cause it to open sharply lower.
+Microsoft’s shares also declined 2%. Both companies are listed on the Nasdaq exchange.
+Industry experts have said the global tech outages appear to stem from an issue withCrowdStrike, a cybersecurity firm that has Microsoft Windows among its clients.
+US Transportation Secretary Pete Buttigieg said the government was monitoring technical issues atFrontier Airlines, which had to ground all flights after citing problems involving a Microsoft outage.
+“We are monitoring technical issues at Frontier Airlines leading to cancellations and delays across their network. Our department will hold Frontier, and all airlines, to their responsibilities to meet the needs of passengers. Visithttp://flightrights.govto know your rights,” Buttigieg wrote on X.
+
+Earlier on Thursday, Frontier said its systems had been “impacted by a Microsoft outage, which is also affecting other companies.”
+The Federal Aviation Administration said Frontier asked it to pause the airline’s departures across the US, though that ground stop was lifted later that night.
+American Airlines, which had flights grounded earlier Friday by the Federal Aviation Administration (FAA), said it was working to fix the problem as airports and airlines around the world face major disruptions.
+“We’re aware of a technology issue with a vendor that is impacting multiple carriers. American is working with the vendor to resolve the issue as quickly as possible. We apologize to our customers for the inconvenience,” it said in a statement on X.
+
+Delta Air Lines, United Airlines, and Allegiant Airlines also had all flights grounded on Friday.
+Australian Prime Minister Anthony Albanese said the National Coordination Mechanism has been activated to deal with the ongoing tech outages.
+“I understand Australians are concerned about the outage that is unfolding globally and affecting a wide range of services,” the prime minister said on X, adding that “there is no impact to critical infrastructure, government services or Triple-0 services at this stage.”
+The NCM brings together different government agencies – state and territory – as well as industry and private sector stakeholders to coordinate a large-scale response to crises, and was first activated in the early stages of the Covid-19 pandemic.
+Malaysia’s Bursa Malaysia Bhd stock exchange is experiencing tech outages.
+Bursa Malaysia Bhd also said the FTSE Bursa Malaysia KLCI index value feed is “experiencing service disruption” and that the company is investigating the matter, according to Malaysia’s national news agency Bernama.
+The country’s largest railway operator, KTM Berhad, said its ticketing system and all customer service channels were facing disruptions “due to Crowdstrike Microsoft Windows,” and that it was working to restore services.
+What is CrowdStrike?Industry experts have said the global tech disruption appears to stem from an issue withCrowdStrike, a cybersecurity firm that has Microsoft Windows among its clients.
+One of CrowdStrike’s main products is CrowdStrike Falcon, a cybersecurity platform used by large corporations and government clients including major global banks, healthcare and energy companies, according to the company.
+It has so far not addressed the ongoing outage possibly linked to its software. CNN has reached out to CrowdStrike for comment.
+Commonwealth Bank,Australia’slargest, has reported disruptions to its operations. Australian lenders ANZ and Westpac have also been impacted, according to Downdetector, a website that tracks cyber outages. Downdetector has also reported issues for New Zealand’s ASB Bank.
+South Africa’sCapitec said it was experiencing nationwide service disruptions due to an unexpected issue with an international service provider but added later that all services are now back up and running.
+In theUnited Kingdom, a Barclays spokesperson said the bank’s digital investing platform Smart Investor had been affected, with customers unable to manage their account in the app, online or over the phone.
+The Bank of England said its systems haven’t been affected. “We are monitoring the situation closely and continuing to engage with firms and other authorities,” the bank said.
+InIsrael, a spokesperson for the central bank said a global technical malfunction at CrowdStrike is having a “partial technical impact” on the country’s banking system. The Bank of Israel is dealing with it, the spokesperson added.
+Meanwhile, Visa said “there is no indication” of any impact on its ability to process payments. The global payments technology company noted: “We are aware of reports of people being unable to make payments and are working with our financial institution clients to understand any impact on their services to cardholders and merchants.”
+Similarly, Visa’s competitor Mastercard said “there is no current indication that these issues are impacting our systems.”
+Citi in theUnited Statesdeclined to comment on whether the bank is experiencing issues. Other major banks have not responded to CNN.
+Asian airlines AirAsia, Cebu Pacific Air and Singapore Airlines have all been hit by the ongoing global tech disruption, the carriers said on their respective social media channels.
+AirAsiasaid in a post on X that, “Our core reservation and check-in system are impacted by Microsoft’s cloud services outage affecting airlines worldwide.”
+Cebu Pacific Airsaid it was forced to handle all processes manually due to the outage.
+Singapore Airlinesnoted on X that none of its flights have been impacted, but that it is experiencing technical difficulties.
+Kelly Skjerven was headed to a friend’s bachelorette party in Las Vegas, Nevada when she found herself among hundreds of people stranded at San Francisco airport on Friday morning due to a global technology outage.
+Skjerven told CNN she was on board her United Airlines flight, which was scheduled for 11 p.m. on Thursday, when staff informed passengers over the intercom that they were experiencing IT issues.
+Passengers were then told to deplane while the airline worked to resolve the issue, which has disrupted airlines worldwide, as well as health systems, banks, grocery stores, and media companies.
+Weary passengers are now waiting by the gates, Skjerven said, with some adults and children sleeping on the floor. Skjerven said she called a nearby hotel but it was full.
+“There’s nothing we can really do at this point but wait,” she said.
+
+Skjerven’s journey to Vegas started Thursday morning, in Toronto, Canada. She was re-routed through San Francisco when her WestJet flight from Calgary to Las Vegas Thursday was canceled due to a staffing issue, unrelated to the technology outage.
+CNN has reached out to WestJet.
+Cathay Pacific Airways and Hong Kong Disneyland say their operations have been impacted by technical issues as tech disruptions hit airlines and businesses worldwide.
+The Hong Kong flagship airline’s online flight booking service is currently unavailable, according to a statement on its website.
+It also said in a separate statement that “due to unexpected technical issues, self-service check-in facilities at Hong Kong International Airport are currently unavailable.”
+
+The airline advised passengers to leave enough time for check-in and that it is working to restore services soon.
+Hong Kong Disneyland said its online ticketing system was down due to an “unexpected computer system outage” and asked park visitors to purchase on-day tickets from a ticket booth at the park’s entrance.
+Hong Kong Stock Exchange had not been affected, its spokesperson told CNN.
+Six Indian airlines are experiencing issues with online services due to problems with their service providers, as large-scale tech outages hit airlines and businesses around the world.
+A “widespread worldwide” computer malfunction is affecting hospitals and other health services in Israel, the country’s health ministry said in a statement Friday.
+“This is not a cyber attack but a malfunction” in one piece of software, affecting “servers and computers,” the ministry said.
+
+Tech outages are causing disruption globally, with airports and media outlets affected across Europe, North America and the Asia-Pacific region.
+Singapore’s famed Changi airport, often named theworld’s best airport, is facing IT disruptions, according to a post on its Facebook page.
+“Due to a global outage affecting the IT systems of many organisations, the check-in process for some airlines at Changi Airport is being managed manually,” the airport said.
+
+It’s among a number of airports around the world currently facing tech disruptions, including in Europe and Australia.
+Changi handles 95 million passengers per year, and topped Skytrax’s list of best airports for eight years in a row – before dropping a few spots during the pandemic, and reclaiming its crown last year.
+Sky News,a major television news channel in the UK, was unable to broadcast live on Friday morning.
+The network’s executive chairman David Rhodes apologized to viewers for the interruption, saying many news reports are still available online.
+United Airlines said in a statement Friday that all aircraft were grounded while it worked to fix a “third party software outage,” after the Federal Aviation Administration (FAA) announced the ground stop ofseveral major US carriers.
+“A third party software outage is impacting computer systems worldwide, including at United. While we work to restore those systems, we are holding all aircraft at their departure airports. Flights already airborne are continuing to their destinations,” United said.
+
+Delta Air Lines, American Airlines and Allegiant Airlines areall grounded too, regardless of flights’ destinations, the FAA said.
+International airlines, including Virgin Australia and Qantas, have also reported tech disruptions, though operations are still continuing.
+Industry experts have said the disruption appears to stem from an issue with cybersecurity firm CrowdStrike. Microsoft Windows is among its clients.
+One of the company’s main products is CrowdStrike Falcon, described on itswebsiteas a platform “providing real-time indicators of attack, hyper-accurate detection and automated protection” from possible cybersecurity threats.
+Founded in 2011, CrowdStrike sells Falcon to big corporations and government clients, including major global banks, healthcare and energy companies, according to the company.
+It has so far not addressed the ongoing outage possibly linked to its software. CNN has reached out to CrowdStrike for comment.
+“CrowdStrike is a cybersecurity company. It runs (a) variety of enterprise pieces of software for endpoint malware detection. It’s kind of like antivirus, essentially, but usually, for corporate systems, usually not people to home PCs,” Jeffrey L. Foster, an associate professor in at Macquarie University in Australia, told CNN.
+
+The global IT outage appears to have been caused by an issue with the CrowdStrike antivirus software, according to professor Salil Kanhere, from the University of New South Wales in Sydney.
+“It appears to have impacted Windows machines with this software installed, causing them to crash (blue screen error) and get stuck in boot loops,” Kanhere said.“An update to their software appears to have been rolled out globally without proper testing.”
+
+Australian airlines Virgin Australia and Qantas Airways have been impacted by massive tech disruptions on Friday, the carriers confirmed to CNN.
+“Virgin Australia is aware of a large-scale IT outage impacting multiple airlines and other businesses which is having an impact on our operations. We are working to resolve this issue as soon as possible,” said a Virgin Australia spokesperson.
+
+Qantas Airways also said it is experiencing “some impacts to systems due to a global software issue.”
+“Qantas is still operating but there may be some delays,” the airline said in a statement, adding it is working with providers to resolve the issue as quickly as possible.
+
+Airport impacts:Melbourne and Sydney airports said they are experiencing impacts to operations due to global technical disruptions.
+Sydney Airport said flights are still arriving and departing, “however there may be some delays throughout the evening.” It said it activated contingency plans and deployed additional staff to terminals.
+Melbourne Airport said the “global technology issue” is impacting procedures for some airlines and advised passengers to provide extra time for check-in.
+Professor Jill Slay, the University of South Australia’s SmartSat Chair for Cybersecurity said the “global impact” of the major global outage is “enormous” but that it was “too early to draw conclusions” on what caused it.
+“There is currently a major global technical outage affecting multiple companies and services,” Slay said.“Some are attributing this to security services offered by CrowdStrike. Others attribute it to Microsoft or Amazon Authorities and industry will be monitoring, but at this stage it is too early to draw conclusions.”
+
+Slay said the outage “may easily be a result of misconfiguration by one of these companies, or ‘interference’ between products, the global impact is enormous.”
+“It is possible that there is a security breach, but to me, this is instinctively unlikely.”
+Microsoft said Friday it was investigating an issue affecting users’ access to various Microsoft 365 apps and services, including Teams.
+“Our services are still seeing continuous improvements while we continue to take mitigation actions,” it said.
+It added some users “are seeing relief” as the company addresses the issue and saidthe preliminary cause wasa configuration change that “resulted in connectivity failures.”
+Australia and New Zealand have been hit by large-scale cyber outages that have affected businesses, government services and airports.
+Downdetector, a website that tracks cyber outages, reported impacts to Australian banking and telecoms institutions such as ANZ, Westpac, Visa, and Optus.
+Australia’s National Cyber Security Coordinator said it was “aware of a large-scale technical outage affecting a number of companies and services across Australia this afternoon.”
+It added that “there is no information to suggest it is a cyber security incident.”
+Airlines affected:Sydney Airport said in a post on X that “a global technical outage has impacted some airline operations and terminal services,” adding that flight arrivals and departures continued, with some delays possible throughout the evening.
+Brisbane Airport said a global IT issue was impacting check-in for “some airlines at the airport and some terminal services.” Flights are continuing to operate, the airport said.
+Supermarket chains:Woolworths and Coles also reported disruptions to their operations, as well as Commonwealth Bank, Australia’s largest bank.
+Police and broadcasters:New South Wales Police also reported issues, and Australia’s national broadcaster ABC said it was “experiencing a major network outage, along with several other media outlets.”
+New Zealand:Downdetector in New Zealand also reported issues for banks, including ASB. Christchurch Airport was also experiencing IT issues across a number of systems “which may affect flight arrivals and departures,” the airport said on X.
+Microsoft confirmed on Friday that an outage is impacting customers across China with many experiencing a “blue screen” showing an error message.
+“It is currently understood that most of the blue screens occurred after the company’s computers had installed third-party antivirus software,” a statement from Microsoft posted on the Chinese social media Weibo said.
+
+The company said there could be several issues causing the blue screen such as a “security system update” or an “incompatibility” problem.
+Microsoft did not offer any solutions at this time, instead directing users to make an appointment with the company’s IT technicians.
+All flights of several major US airlines – includingDelta, United andAmerican Airlines– were grounded Friday morning due to a communication issue, according to the Federal Aviation Administration.
+The “ground stop” impacts all flights from the airlines, regardless of their destination, said the FAA.
+It’s unclear how long the ground stop will last, though the FAA suggested an update would be available by 5 a.m. ET.
+Their grounding comes after a significantMicrosoft outagebrought Frontier Airlines to a standstill for hours on Thursday – though the ground stop for those airlines has since been lifted.
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.CNN Sans ™ & © 2016 Cable News Network.
