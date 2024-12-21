@@ -1,0 +1,19 @@
+Ukrainehas developed a laser weapon capable of shooting down targets from more than a mile away, the country’s drone force commander has claimed
+Speaking at a defense summit in Kyiv this week, Vadym Sukharevskyi, Commander of the Armed Forces of Ukraine’s Unmanned Systems said, “Today, we can already shoot down aircraft with this laser at an altitude of over 2 kilometers (1.2 miles).”
+“It truly works, it truly exists,” he said, the Interfax-Ukraine news agency reported, adding that efforts were being made to enhance the weapon’s scale and capabilities.
+The laser is named the Tryzub, or Ukrainian for “trident,” a nod to Ukraine’s national symbol representing independence, strength, and unity.
+Sukharevskyi did not offer any further details about the Tryzub laser and CNN cannot verify his claims. However, experts told CNN the existence of the Tryzub was “feasible.”
+Patrick Senft of the Armament Research Services, a technical intelligence consultancy specializing in arms in munitions research, told CNN that while little is known about the Tryzub system, “it is entirely feasible for Ukraine to develop a functional directed-energy weapon (DEW) capable of destroying some aerial targets.”
+Related articleExclusive: Inside a secretive Ukrainian drone unit targeting Russian territory
+“This is particularly achievable by using commercial, off-the-shelf welding lasers combined with other available technologies,” Senft said, pointing to the US Navy’s Laser Weapons System (LaWS) that has operated at comparable ranges since 2014.
+Senft explained that laser directed-energy weapons (DEW) were particularly effective against slow, low-flying drones deployed by Russia, as those drones consist of comparatively fragile components that are vulnerable to heat.
+Low-flying UAVs, like the Shahed-136/Geran-2 one-way-attack drones’ low altitude and steady flight pattern “make them particularly susceptible to sustained laser exposure,” Senft said, “as the weapon can concentrate energy on a specific point to destroy critical components.”
+Senft added that such weapons had two key limitations, related to how fast their target is traveling and how the lasers lose energy the farther they travel. Faster-moving or heat-resistant targets (e.g., artillery shells, ballistic missiles) are much harder to neutralize and demand a more advanced system, he said.
+Fabien Hoffmann of the Oslo Nuclear Project (ONP) said there were several technical challenges to deploying an effective laser system to counter drones or missiles.
+Related articleAir defense for $13 a shot? How lasers could revolutionize the way militaries counter enemy missiles and drones
+“These challenges include overcoming issues related to laser beam strength and the cooling of the system, atmospheric absorption and reflection of the laser beam (e.g., due to clouds or rain), and a phenomenon known as ‘thermal blooming.’ Thermal blooming occurs when the laser beam heats the surrounding air, causing it to spread out, which reduces its power and effectiveness at damaging the target,” he said.
+“To assess how effective it is in a missile defense role, we’ll need to see how it performs in practice,” Hoffmann added.
+Only a few countries are understood to be in possession of laser weapons, including the US, China and Israel.
+The UK is also currently developing its own laser weapons system, called theDragonFire, which is set to be operational in 2027.
+In April, former Defense Minister Grant Shapps said that the DragonFire could potentially be used in Ukraine to counter Russian drones, Reuters reported.
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.CNN Sans ™ & © 2016 Cable News Network.

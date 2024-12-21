@@ -1,0 +1,27 @@
+Markets
+Hot Stocks
+Fear & Greed Index
+Latest Market News
+Hot Stocks
+Chinese tech firms Baidu and SenseTime launched theirChatGPT-style AI botsto the public on Thursday, marking a new milestone in the global AI race.
+Baidu has opened public access to its ERNIE Bot, allowing users to conduct AI-powered searches or carry out an array of tasks, from creating videos to providing summaries of complexdocuments.
+The news sent its shares 3.1% higher in New York on Wednesday and 4.7% higher in Hong Kong on Thursday.
+Baidu (BIDU) is among the first companies in China to get regulatory approval for the rollout, and it is the first to launch this type of service publicly, according to a person familiar with the matter.
+Until Thursday, ERNIE Bot, also called “Wenxin Yiyan” in Chinese, had been offered only to corporate clients or select members of the public who requested access through a waitlist.
+AI tools make things up a lot, and that's a huge problem
+Meanwhile, SenseTime, an AI startup based in Hong Kong, also announced the public launch of its SenseChat platform on Thursday. The company’s shares surged 4% in Hong Kong following the news
+“We are pleased to announce that starting today, it is fully available to serve all users,” a SenseTime spokesperson told CNN in a statement.
+Chinapublishednew rules on generative AI in July, becoming one of the world’s first countries to regulate the industry. The measures took effect on August 15.
+Baidu has been a frontrunner in China in the race to capitalize on the excitement around generative artificial intelligence, the technology that underpins systems such as ChatGPT or its successor,GPT-4. The latter has impressed users with its ability to simplify coding, rapidly create a website from a simple sketch and pass exams with high marks.
+Baiduannouncedits own iteration in February, giving it an early advantage in China, according to analysts. ItunveiledERNIE a month later, showing how it could generate a newsletter, come up with a corporate slogan and solve a math riddle.
+Since then, competitors such as Alibaba (BABA) and SenseTime have announcedplans to launchtheir own ChatGPT-style tools, adding to the list of Chinese businesses jumping on the bandwagon. Alibaba told CNN Thursday that it had filed for regulatory approval for its own bot, which was introduced in April.
+The company is now waiting to officially launch and “the initial list of companies that have received the approval is expected to be released by relevant local departments within one week,” said an Alibaba Cloud spokesperson.
+Some critics say the new offerings from Chinese firms will add fuel to an existing US-China rivalry in emerging technologies. Baidu CEO Robin Li has tried to shake off that comparison, saying previously that the company’s platform “is not a tool for the confrontation between China and the United States.”
+Baidu stock rebounds after falling sharply in wake of ChatGPT-style bot demo
+The firm’s new feature — which will be embedded in its popular search engine, among its other offerings — follows a similar featureintroducedby Alphabet’s Google (GOOGL)in May, which allows users to search the web using its AI chatbot.
+Baidu says its service stands out because of its advanced grasp of Chinese queries, as well as its ability to generate different types of responses, such as text, images, audio and video.
+By comparison, GPT-4 is also able to analyze photos, but currently only generates text responses,according toits developer, OpenAI.
+While ERNIE Bot is available globally, its interface is in Chinese, though users will be able to enter both Chinese and English prompts, a Baidu spokesperson told CNN.
+SenseTime, whichunveiledits service in April, has touted a range of features, which it says allow users to write or debug code more efficiently or receive personalized medical advice from a virtual health consultation assistant.
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.CNN Sans ™ & © 2016 Cable News Network.

@@ -1,0 +1,22 @@
+Markets
+Hot Stocks
+Fear & Greed Index
+Latest Market News
+Hot Stocks
+When X unveiled its newest terms of service, which go into effect on November 15, users quickly picked up on one change.
+“By submitting, posting or displaying Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license to make your Content available to the rest of the world,” theterms of servicesaid, which includes the right to analyze any of that content “including, for example, for use with and training of our machine learning and artificial intelligence models, whether generative or another type.”
+Basically, by continuing to use the platform, users will agree that X can use their data to train its AI models.
+Using content to train AI has become a major issue as the technology booms. On X,artists and others in creative rolesare fretting about their work being used – not just on X – to train computers that could someday replace human creators entirely.OtherX users say they are concerned about personal information in their tweets being used that way. Some users said on the site they have already begundeleting photographs of themselvesfrom their feeds.
+And if users have any issue with those terms, they may end up in a federal courtroom that isfavored by conservative activistsand is already presiding overtwolawsuitsinvolving Musk-owned X.
+According to the update, all disputes related to the terms will be brought to the US District Court for the Northern District of Texas or state courts in Tarrant County, Texas.
+Tarrant County is more than 100 miles away from X’s new headquarters outside of Austin, Texas.
+X’s terms said any users who continue to use their products or services on or after November 15 would be agreeing to the updated terms.
+Grok, X’s AI chatbot, has already been embroiled in controversy, fromspreading false informationabout the 2024 election togenerating violent, graphic fake imagesof famous politicians. Companies fromGoogletoMicrosofthave similarlycome under fire for sometimes weird, completely off-baseAI tools.
+Before the most recent terms of service update, X users couldopt outof sharing data by going to “settings,” then “privacy and safety.” Under the “data sharing and personalization” header, there is a tab for“Grok,”where users can uncheck the box that allows the platform to use their data for AI training.
+But it’s not clear whether X’s new terms of service take away that option. X can now license all the content on the platform, including using it in its machine learning and artificial intelligence models.
+While such broad licensing with few limitations is not uncommon for a social media platform, Alex Fink, CEO and founder of Otherweb, an AI-based news reading platform that targets misinformation, told CNN that what makes X unique is that its new terms “remove any ambiguity” in contrast to other platforms that don’t spell out their intentions.
+Before, X said posts from private accounts would not be used to train Grok. But the language in the new terms of service does not differentiate between the types of accounts.
+But only time will tell if you may still be able to opt out, despite the new terms. Fink said it’s fairly common for a company’s legal terms to give it more leeway than its own menu options allow.
+CNN’s Clare Duffy contributed to this report.
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.CNN Sans ™ & © 2016 Cable News Network.

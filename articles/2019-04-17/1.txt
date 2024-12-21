@@ -1,0 +1,41 @@
+Markets
+Hot Stocks
+Fear & Greed Index
+Latest Market News
+Hot Stocks
+Lyft raced to keep up with the burgeoning e-bike and e-scooter market. Now, it finds its roughly 3,000 e-bikes grounded as the two-wheelers face safety questions over their design and upkeep.
+The electric bikesharing space is relatively new, having first launched in the United States in 2015. There are now shared e-bikes available in at least 37 cities, and 6.5 million rides taken in 2018,  according to the National Association of City Transportation Officials. Lyft’s Motivate brand operates e-bikes in three areas. The bikes are labeled Citi Bike in New York, Capital Bikeshare in Washington DC, and Ford GoBike in the San Francisco Bay Area.
+Lyftpulled its e-bikesover the weekend from those regions following reports of riders being thrown over the handlebars after braking. What’s causing the accidents remains unclear, and Lyft said it continues to investigate with the help of a third-party engineering firm. But e-bike experts tell CNN Business the design of Lyft’s bicycles make them more vulnerable to riders flying over the handlebars as the bikes tip forward.
+Related articleLyft pulls electric bicycles in DC, NY and San Francisco after reports of brake issues
+Experts say the weight of a vehicle, be it a car or bicycle, should be centralized and as low as possible to prevent roll-over risks. Lyft’s e-bikes have a motor in the front wheel and the battery sits on top of the down tube, the part of the bike frame that connects the wheels. This added weight shifts the bike’s center of gravity forward and higher, increasing the risk that the bike will flip forward, these experts say.
+Most e-bike manufacturers don’t place the motor in the front wheel, according to Jonathan Weinert, a spokesman for Bosch, which says it supplies e-bike systems to 70 bike brands.
+“It’s been proven in the bicycling industry to be a bad idea,” he said.
+By contrast, PBSC Urban Solutions — which supplies shared bikes in 33 cities and e-bikes in three — places the motor in the mid-frame of the bike, attached to the pedals, or in the rear wheel, according to its CEO, Luc Sabbatini.
+WhenLyft announcedit was removing the e-bikes, it said it had received a small number of reports from riders who experienced stronger than expected braking force on the front wheel. Lyft also said the bikes were being removed for the time being out of an abundance of caution.
+Lyft declined to comment to CNN Business on the design of the bikes.
+Bikeshare bikes are often ridden by inexperienced riders, so it’s important to have a bike that novices can ride safely. But even experienced riders have been hurt on the Lyft e-bikes.
+Judd Isbell, who is a board member for the Washington Area Bicyclist Association, says he flipped over the handlebars of a Lyft e-bike from Capital Bikeshare in Washington, DC, earlier this year.
+Isbell estimates he was going about 8 mph when a cab cut him off. He braked hard with both brakes — a technique he teaches students in his bike instruction classes for the association.
+“All the sudden the bike lifted up and I was on the ground and the bike flew over the top of me,” said Isbell, who experienced minor injuries.
+Related articleLyft is losing a lot of money. And it might not turn a sizable profit until 2023
+Paul Buijs says he had a similar experience in New York. A van cut him off on a street without a bike lane and he braked hard to prevent a collision.
+“There was an instant catapult,” Buijs said, who recalled feeling his teeth grind against the pavement. He said he’s ridden Citi Bike, which is owned and operated by Lyft, hundreds of times.
+He said his injury occurred a few blocks into his first ride on Citi Bike’s electric bikes.
+“I was the biggest fan of Citi Bike,” said Buijs, who is now worried about lingering effects on a previous neck injury from a diving accident.
+Citi Bike introduced a small number of e-bikes in 2018 as new transportation options such as e-bikes and e-scooters took off. Theyoffer a quick, fun and easy wayto get around. In recent months, Citi Bike added significantly more e-bikes to meet demand.
+All the sudden the bike lifted up and I was on the ground and the bike flew over the top of me.”
+Judd Isbell, Lyft e-bike rider
+Lyft reported earlier this year that its e-bikes in New York were being ridden about 15 times a day, which is three times as often as the traditional bikes in its fleet. There have been 1.7 million rides on the e-bike that Lyft pulled from streets, according to the company.
+In 2018, Lyftpurchased Motivate, which operates large bikeshare fleets in cities such as New York, Washington DC, Chicago and the San Francisco Bay Area.
+The purchase came months after its larger rival Uber acquired Jump, a bikeshare company that launched e-bikes a year before Motivate.
+The Jump bikes were designed from the ground up to be electric. The frame is wider than a traditional pedal bike, allowing for the battery to be housed inside, and lower on the bicycle. The Motivate e-bikes are largely indistinguishable from the traditional bikes, aside from the battery tacked on the frame and motor in the front wheel.
+The Motivate e-bikes use a brake on the front wheel from the Japanese company Shimano.
+According to Martin Hess, product manager for research and development at the German e-bike company Riese & Muller, the otherwise reliable brake can lock up if it is not properly maintained with a special brake grease.
+Lyft declined to comment on its maintenance policies.
+Uber, which also uses Shimano brakes on some of its electric bikes, said in a statement it introduced a hardware modification last year to improve braking. There had been at least two 2018 reports on social media of Jump’s brakes seizing up, and one of a rider being thrown over the handlebars.
+Jump added a braking component called a power modulator, which according to Shimano, prevents excessive braking force.
+Shimano said in a statement Wednesday that based on available information, the Lyft e-bike troubles are not due to Shimano’s brake system. It said Lyft did not appear to include on some of the bikes a power modulator to prevent excessive braking force. Lyft declined to comment on whether the e-bikes all had power modulators, and said its investigation into the incidents is on-going.
+For Lyft, developing a viable e-bike and e-scooter platform is vital to expanding its business. Many cities have been receptive to companies that can help reduce congestion. And e-bike ridership can be good for customer loyalty. If riders enjoy the e-bike experience, they’re likely to ride again.
+“They’re a lot of fun,” said Isbell, who likes the e-bikes so much he went out of his way to find the bikes when Capital Bikeshare’s initial pilot included only a limited number of e-bikes. “I hope they find a fix for them.”
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.CNN Sans ™ & © 2016 Cable News Network.

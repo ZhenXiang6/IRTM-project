@@ -1,0 +1,37 @@
+Markets
+Hot Stocks
+Fear & Greed Index
+Latest Market News
+Hot Stocks
+Shares in Chinese search giant Baidu rebounded sharply a day after it unveiledERNIE Bot, its answer to the ChatGPT craze.
+Its stock soared 14.3% on Friday in Hong Kong, making it the biggest winner in the Hang Seng Index(HSI). They also gained 3.8% in New York during US trade Thursday.
+A day earlier, Baidu(BIDU)was the biggest loser of the same index. Its Hong Kong shares fell 6.4% after a public demonstration of its bot failed to impress investors. Since February, more than 650 companies had joined the ERNIE ecosystem, CEO Robin Li said during the presentation.
+The reversal came after the company said more than 30,000 businesses had signed up to test out its chatbot service within two hours of its demonstration.
+“The high degree of enterprise interest is positive, and we expect Baidu to continue to capture China’s enterprise demand for generative AI,” Esme Pau, Macquarie’s head of China and Hong Kong internet and digital assets, told CNN.
+She said the company’s shares were bouncing back Friday as some users, including analysts, shared positive feedback of their own experiences trying out ERNIE, which suggested the bot had more advanced capabilities.
+During the presentation, Baidu showed how its chatbot could generate a company newsletter, come up with a corporate slogan and solve a math riddle.
+But its stock slumped on Thursday because the demo was “pre-recorded, and not live, which makes investors skeptical about the robustness of the ERNIE Bot,” according to Pau.
+Baidu’s demonstration also came just days after thelaunch of GPT-4,which “raised the bar for ERNIE,” she added.
+GPT-4 is the latest version of the artificial intelligence technology behind ChatGPT. The service hasimpressed usersthis week with its ability to simplify coding, rapidly create a website from a simple sketch and pass exams with high marks.
+5 jaw-dropping things GPT-4 can do that ChatGPT couldn't
+Pau noted that Baidu’s shares were already “down modestly” before showing off its software on Thursday, highlighting pressure from investors who had raised expectations following the GPT-4 launch.
+“ERNIE also does not have the [same] multilingual capability as GPT-4, and has yet to improve for English queries,” she said. “Also, the ERNIE launch did not provide sufficient quantifiable metrics compared to the GPT-4 launch earlier this week.”
+Like ChatGPT, ERNIE isbased ona language model, which is trained on vast troves of data online in order to generate compelling responses to user prompts.
+Li said Baidu’s expectations for ERNIE were “close to ChatGPT, or even GPT-4.”
+But he acknowledged the software was “not perfect yet,” adding it was being launched first to enterprise users. The service is not yet available to the public.
+Baidu announced its chatbot last month. Some critics say the service will add fuel to an existingUS-China rivalryin emerging technologies.
+Li tried to shake off that comparison during the launch, saying the bot “is not a tool for the confrontation between China and the United States in science and technology, but a product of generations of Baidu technicians chasing the dream of changing the world with technology.”
+“It is a brand new platform for us to serve hundreds of millions of users and empower thousands of industries,” he said.
+Baidu says its service stands out because of its advanced grasp of Chinese queries, as well as its ability to generate different types of responses.
+“ERNIE Bot can produce text, images, audio and video given a text prompt, and is even capable of delivering voice in several local dialects such as the Sichuan dialect,” the company said in a statement.
+By comparison, GPT-4 is alsoable to analyze photos, but currently only generates text responses,according toits developer, OpenAI.
+Baidu stock surges after announcement of ChatGPT-style AI bot
+Baidu isn’t the only Chinese firm working on such technology. Last month, Alibaba(BABA)announcedplans to launch its own ChatGPT-style tool, adding to the list of tech giants jumping on the chatbot bandwagon.
+So far, Baidu has a first mover advantage in the space in China, according to analysts.
+“Our view is ERNIE is three to six months ahead of its potential contenders,” said Pau.
+Baidu also announced a milestone in its transportation business on Friday, saying it is the first operator in Beijing to be allowed to provide fully driverless ride-hailing services in the city.
+The company isn’t allowed to start charging passengers in the capital for the newservice yet. Previously, it was required to keep a driver in the front passenger seat to take over in case of emergencies.
+Baidu runs fully driverless commercial taxi services in the cities of Chongqing and Wuhan.
+— CNN’s Mengchen Zhang contributed to this report.
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.CNN Sans ™ & © 2016 Cable News Network.

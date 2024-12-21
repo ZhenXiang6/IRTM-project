@@ -1,0 +1,34 @@
+Markets
+Hot Stocks
+Fear & Greed Index
+Latest Market News
+Hot Stocks
+Editor’s Note: A version of this story appeared in CNN Business’ Nightcap newsletter. To get it in your inbox, sign up for free,here.
+I can already feel it coming. The emails. The pitches. The explosion of buzzwords. This is going to be the year of “generative AI” the way 2012 was the year of Instagram. The way every year since 2017 has been the year of “blockchain revolution” or the “pivot to video.”
+No one is safe. Best to get clear-eyed and figure out what all the hype is about. After all, Google and Microsoft (and probably others) are now officially in the race to out-AI one another.
+Here’s the deal: BothGoogle and Microsofthave gone public with plans to use artificial intelligence to change how people search for information online.
+(Yes, Bing still exists and Microsoft hopes AI can make it relevant again for the first time ever.)
+Generative AI is the technology that underpins ChatGPT, the chatbot that’s gotten everyone in the content-generation biz (hello!) all worked up since November.
+Here’s how it works: The bot draws on troves of information online to generate written responses to user prompts and queries. You need a quick summary ofCrime & Punishmentbecause you fell asleep trying to cram the last 400 pages in one sitting? ChatGPT has you covered. You need it to be 1,000 words? Done. You need it in the form of a villanelle, written from the perspective of the murdered pawnbroker? *beep-boop-beep-boop-beeeeep*No sweat.
+So, how would it make search engines better?
+My colleagueClare Duffy got to test out Microsoft’supdated version of Bing, which combines elements of ChatGPT technology with the usual interface you’d expect from a search engine.
+Rather than return just a list of relevant links, the new Bing creates written summaries of the search results, chats with users to answer additional questions, and can write emails based on the results.
+Here’s Clare:
+I asked Bing to write me a five-day vegetarian meal plan. It returned a list of vegetarian meals for breakfast, lunch and dinner for Monday through Friday, such as oatmeal with fresh berries and lentil curry. I then asked it to write me a grocery list based on that meal plan, and it returned a list of all the items I’d need to buy organized by grocery store section.
+OK, so that sounds useful… What else, Clare?
+…The Bing chatbot also wrote me an email that I could send to my partner with that grocery list, complete with a “Hi Babe” greeting and “XOXO” closing.
+Ugghh that really sucks, Bing.
+…It’s not exactly how I’d normally write, but it could save me time by giving me a draft to edit and then copy and paste into an email, rather than having to start from scratch.
+Ah. That makes sense.
+The Microsoft event on Wednesday came just days after Googleunveiled its new AI-powered chatbot, dubbed “Bard,” which it hopes to make widely available “in the coming weeks,” CEO Sundar Pichai wrote Monday.
+What’s the catch?
+Oh, where to begin… *cracks knuckles*
+The source material for these chatbots is none other than the internet itself. And, in case you missed it, the internet is full of garbage. Misinformation, dangerous ideologies, crime, Philadelphia Eagles fans … Scary stuff.
+The bots are also kinda dumb. Already, Google is being called out fora flaw in the demoit released for its Bard AI tool. Last month, tech news site CNET had to issue several corrections after using an AI-powered tool to help write dozens of stories. (I’ve said it once, I’ll say it again: Everyone needs an editor.)
+Plus, AI ethicists warn there are any number of otherunintended consequences lurking. So far, these tech companies don’t appear to have put up guardrails on the nascent technology, says Beena Ammanath, who leads Trustworthy Tech Ethics at Deloitte and is the executive director of the Global Deloitte AI Institute.
+Key quote: The swift deployment of generative AI is like “building Jurassic Park, putting some danger signs on the fences, but leaving all the gates open,” Ammanath told my colleague Oliver Darcy.
+She continues: “The challenge with new language models is they blend fact and fiction. It spreads misinformation effectively. It cannot understand the content. So it can spout out completely logical sounding content, but incorrect. And it delivers it with complete confidence.” (Dear God. It’s the over-confident white man in bot form.)
+Plenty of bugs have yet to be worked out. But Google, Microsoft and their rivals are still bullish.
+“Although we are 25 years into search, I dare say that our story has just begun,” said Prabhakar Raghavan, an SVP at Google. “We have even more exciting, AI-enabled innovations in the works that will change the way people search, work and play.”
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.CNN Sans ™ & © 2016 Cable News Network.
