@@ -1,0 +1,288 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\begin{document}
+
+\title{Music Classification Using Song Lyrics\\
+\small{Introduction of Text Mining 2023 Fall final project}}
+
+\author{
+\IEEEauthorblockN{\IEEEauthorblockN{Hsun Yu Lee}}
+\IEEEauthorblockA{\textit{dept. Information Management} \\
+\textit{National Taiwan University}\\
+b11705022@ntu.edu.tw}
+\and
+\IEEEauthorblockN{\IEEEauthorblockN{Yen Hung Chiang} }
+\IEEEauthorblockA{\textit{dept. Information Management} \\
+\textit{National Taiwan University}\\
+b11705044@ntu.edu.tw}
+\\
+\IEEEauthorblockN{\IEEEauthorblockN{Siang Ruei Hu} }
+\IEEEauthorblockA{\textit{dept. Information Management} \\
+\textit{National Taiwan University}\\
+b11705028@ntu.edu.tw}
+\and
+\IEEEauthorblockN{\IEEEauthorblockN{Kai Siang Sung} }
+\IEEEauthorblockA{\textit{dept. Information Management} \\
+\textit{National Taiwan University}\\
+b11705026@ntu.edu.tw}
+}
+
+\maketitle
+
+\begin{abstract}
+As the volume of digital music content continues to soar, the need for effective methods of organizing and categorizing music becomes increasingly crucial. This report explores a novel approach to music classification based on the analysis of song lyrics. Using BERT (Bidirectional Encoder Representations from Transformers) in conjunction with neural networks and other models for the analysis of song lyrics, we investigate the potential of using textual information to discern distinct musical genres and characteristics. With BERT embeddings in conjuction with neural network we've achieved a an accuracy of 54\%.
+\end{abstract}
+
+\begin{IEEEkeywords}
+Music Classification, Genre Classification, BERT, Neural Network
+\end{IEEEkeywords}
+
+\section{Introduction}
+Currently many online music streaming platforms, such as Spotify or Youtube Music, organize songs into different genres. The classification help them to track users' listening patterns and suggest related music to them. The general method for classification is to use audio features or emotional tunes. Though lyrics seem to be less relevant to genres, the low dimensionality of lyrics help the classifier speed up the process. We want to see whether we can use lyrics to support the decision.\\We use different models, such as SVM, neural network, and NB, to predict the class songs belong to which genre. Also, we analyze the result and find what factors may lead to the consequences.
+
+\section{Related Work}
+Classifying music by genre has been conducted. They used a variety of methods to classify them, such as rhythm, music tracks, lyrics, and even album customer reviews. They built different models, including relatively traditional methods such as k-nearest neighbor, support vector machines, and so on; as well as some novel methods such as neural networks with various embeddings, to achieve a range of accuracies.\\A paper implemented several traditional classifiers such as Naive Bayes, 3-NN, and SVM with an input of the combination of audio signals of different music segments. The accuracies reached 46\%, 60\%, 65\%, respectively\cite{b1}. On the other hand, Anna Boonyanit and Andrea Dahl built an LSTM model by utilizing song lyrics as inputs, which performed at an accuracy of 68\%\cite{b2}. We want to examine how well the musics are classified based on their lyrics with different classifiers, and we think that different models will result in different accuracies due to the way the algorithms are built.
+
+\section{Approach}
+Our approach to music genre classification using song lyrics involved a multi-step process. We began by employing BERT as our word embedding technique. 
+To establish baselines, we utilized clustering, a simpler approach, to set a benchmark for performance comparison. The choice of clustering as a baseline was driven by its expected lower performance compared to more sophisticated models, providing insights into the inherent challenges of the task.
+
+For the main approach, we employed three distinct models for music genre classification based on song lyrics:
+
+1. **Support Vector Machine (SVM):** 
+
+2. **Neural Network:** 
+
+3. **Naive Bayes:** 
+
+The comprehensive approach aimed to explore the capabilities of various models in music genre classification, considering both traditional and advanced techniques.
+
+
+\subsection{Word Embeddings}\label{AA}
+In our project, we leverage BERT (Bidirectional Encoder Representations from Transformers) as the chosen word embedding technique for the following reasons:
+
+\begin{enumerate}
+  \item \textbf{Contextual Understanding:} BERT captures contextual information, essential for understanding the meaning of words in song lyrics, where context often shapes interpretation.
+
+  \item \textbf{Semantic Representations:} BERT provides rich semantic representations, enabling the model to grasp nuanced meanings and relationships between words, crucial for analyzing poetic expressions.
+
+
+\end{enumerate}
+
+
+\subsection{Baselines}
+To establish a performance benchmark, we employ clustering as a baseline for our Music Classification Using Song Lyrics project. Clustering is chosen as the baseline because it is expected to perform relatively poorly compared to more sophisticated models. The simplicity of clustering methods may struggle to capture the intricate patterns and semantic nuances present in song lyrics, making it an appropriate candidate for assessing the effectiveness of our main models. As we can see, with the most naive approach, we can achieve around 42\% precision
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{clustering.jpg}
+    \caption{Performance of clustering}
+\end{figure}
+
+
+\subsection{Main Approach}
+After processing the data with BERT, we then start doing training with the following models.
+\subsubsection{Model 1: SVM (Support Vector Machine)}\label{AAX}
+Model 1 utilizes a Support Vector Machine (SVM) for music classification based on song lyrics. SVM is a supervised machine learning algorithm known for its effectiveness in classification tasks. In this context, the SVM is trained on the feature vectors derived from BERT embedding, seeking to create an optimal hyperplane that distinguishes between different music genres.
+
+
+\subsubsection{Model 2: Neural Network}\label{AAX}
+Model 2 adopts a Neural Network architecture for music genre classification based on song lyrics. Neural Networks, particularly deep learning models, excel at capturing intricate patterns and representations in complex data. In this case, the neural network is designed to learn hierarchical features and relationships within the song lyrics, allowing for a more nuanced understanding of the textual content.
+
+
+\subsubsection{Model 3: Naive Bayes}\label{AAX}
+Model 3 employs a Naive Bayes classifier for music genre classification based on song lyrics. Naive Bayes is a probabilistic algorithm that makes assumptions about the independence of features, and despite its simplicity, it has been proven effective in various text classification tasks. In this model, Naive Bayes is applied to learn the probability distribution of words in different music genres, enabling genre prediction based on the observed word occurrences.
+
+
+By integrating these three models, our main approach aims to leverage the diverse strengths of SVM, Neural Network, and Naive Bayes for a comprehensive and accurate music classification system based on song lyrics.
+
+
+\section{Implementation}
+\subsection{Data}
+Our dataset is sourced from the Kaggle repository at \url{https://www.kaggle.com/datasets/imuhammad/audio-features-and-lyrics-of-spotify-songs}
+. It comprises 15,101 songs from Spotify, each categorized into one of six genres: 'rock,' 'r\&b,' 'pop,' 'edm,' 'rap,' and 'latin.' The diversity of genres in the dataset provides a rich foundation for training and evaluating our music classification models. The distribution of the original data is presented below.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{test.png}
+    \caption{Distribution of the original data}
+    \label{fig:enter-label}
+\end{figure}
+We found that each category has similar words, such like "oh, na, yeah, get, got, go, come, know, like, love, let, make, want, ca" etc. We consider those words as stopwords for music classification. After the removal of those words, the histogram below illustrates the distribution of the most frequently occurring terms in each category.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{截圖 2024-01-03 晚上9.20.28.png}
+    \caption{Most frequently occuring terms of each categories}
+    \label{fig:enter-label}
+\end{figure}
+We employ stemming and lemmatization techniques to eliminate stopwords. After removing stopwords, the most frequently occurring words in each category become more distinct, leading to improved recognition accuracy for each class.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{data.png}
+    \caption{Histogram of most frequently occuring terms}
+    \label{fig:enter-label}
+\end{figure}
+
+
+
+\subsection{Preprocessing}
+To prepare the data for our music classification task, we employed BERT (Bidirectional Encoder Representations from Transformers) for word embeddings. BERT is a powerful language model capable of capturing contextual information and semantic representations. The preprocessing involved tokenizing the lyrics into word-level embeddings using BERT, providing a nuanced and contextually rich representation of the song lyrics. Then we separate the data into 10\% testing set and 90\% training set, which still has the same distribution as the original dataset.
+
+The BERT embeddings served as the input features for our models, enabling them to learn from the intricate patterns and relationships within the song lyrics. According to course powerpoint, we use the first element only, which is the CLS token as our input. We uses BERT medium \texttt{(L-2\_H-512\_A-8)}
+ as our BERT model. The use of BERT embeddings allows our models to understand the contextual meaning of words, essential for accurate music genre classification. Additionally, the dataset's predefined genre labels facilitated supervised learning, where the models were trained to predict the predefined genres based on the processed lyrics.
+
+\subsection{Evaluation Method}
+For assessing the performance of our music genre classification models, we employ the following evaluation metrics:
+
+\begin{itemize}
+  \item \textbf{Accuracy:} Accuracy is a fundamental metric that measures the overall correctness of the model's predictions. It is the ratio of correctly predicted instances to the total instances.
+
+  \item \textbf{F1 Macro:} The F1 score is the harmonic mean of precision and recall. The F1 Macro score calculates the average F1 score across all classes, providing a balanced measure of the model's performance across different genres.
+
+  \item \textbf{Recall:} Recall, also known as sensitivity or true positive rate, quantifies the model's ability to correctly identify instances of a particular class among all instances of that class.
+
+\end{itemize}
+
+These metrics collectively offer a comprehensive view of our models' effectiveness in classifying songs into their respective genres. By considering accuracy, F1 Macro, and recall, we gain insights into the overall correctness, balance, and sensitivity of our models across diverse music genres.
+Besides, we display the confusion metrics, which show the proportion of every class is distributed to which class by the model, with the use of heatmaps. The graphs can help us to visualize and analyze the performance of each model.
+
+
+\subsection{Experiment Details}
+This section provides a comprehensive overview of the training procedures for each of the three music genre classification models: Support Vector Machine (SVM), Neural Network, and Naive Bayes.
+
+\subsubsection{Model 1: Support Vector Machine (SVM)}
+The Support Vector Machine (SVM) model undergoes a two-step process: hyperparameter optimization and subsequent training. Optuna is utilized for hyperparameter optimization to find the best configuration. The objective function is defined to maximize the F1 macro score. The best hyperparameters obtained from Optuna are then used to initialize the SVM model. The model is trained on the training set, and its performance is evaluated on the test set using the F1 macro score.
+
+\subsubsection{Model 2: Neural Network}
+The Neural Network model is implemented using Keras with TensorFlow as the backend. Hyperparameter optimization is performed using Optuna to enhance the model's accuracy. The architecture consists of multiple dense layers (256, 128, 64, 32, 6) with ReLU activation functions, incorporating dropout for regularization. The model is trained on the training set, and its performance is assessed on the test set using accuracy as the evaluation metric.
+
+\subsubsection{Model 3: Naive Bayes}
+The Naive Bayes model is trained using multi-hot vectors as input features. The model is trained on the training set and subsequently evaluated on the test set using accuracy, precision and recall as the evaluation metric.
+
+These training processes collectively contribute to the music genre classification experiment, showcasing the utilization of diverse machine learning models with distinct training methodologies.
+
+
+\subsection{Results}
+\subsubsection{Model 1: Support Vector Machine (SVM)}
+The Support Vector Machine (SVM) model, with the best hyperparameters found during optimization, exhibits the following performance metrics on the test set:
+
+\begin{itemize}
+    \item Best Hyperparameters:
+    \begin{itemize}
+        \item Kernel: Linear
+        \item C: \(0.987857384235793\)
+    \end{itemize}
+    \item Classification Report:
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{confusion_matrix.png}
+    \caption{Confusion Matrix for Support Vector Machine}
+    \label{fig:enter-label}
+\end{figure}
+\end{itemize}
+
+The SVM model achieved an overall F1 Micro : 0.53, Accuracy : 0.54, Recall : 0.54 on the test set, with varying precision, recall, and F1-score values for each music genre.
+
+\subsubsection{Model 2: Neural Network}
+The Neural Network model, optimized with the following hyperparameters, demonstrates its performance on the test set:
+
+\begin{itemize}
+    \item Best Hyperparameters:
+    \begin{itemize}
+        \item Batch Size: 64
+        \item Epochs: 300
+        \item Weight Decay (wd): \(0.00010918659567535435\)
+        \item Dropout Rate (rate): \(0.5\)
+        \item Learning Rate (lr): \(2.2284667562332993 \times 10^{-5}\)
+    \end{itemize}
+    \item Classification Report:
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.75\linewidth]{nn.png}
+        \caption{Confusion Matrix for Neural Network}
+        \label{fig:enter-label}
+    \end{figure}
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.75\linewidth]{accuracy.png}
+        \caption{Training history of Neural Network}
+        \label{fig:enter-label}
+    \end{figure}
+    
+\end{itemize}
+
+The Neural Network model achieved an overall F1 Micro : 0.55, Accuracy : 0.54, Recall : 0.56 on the test set, with precision, recall, and F1-score values varying across different music genres.
+
+\subsubsection{Model 3:Naive Bayes}
+
+\begin{itemize}
+    \item Precision vs Recall Curve
+    \begin{figure}[h]
+        \centering
+        \includegraphics{螢幕擷取畫面 2024-01-03 212448.png}
+        \caption{Precision vs. Recall Curve (Bernoulli)}
+        \label{fig:enter-label}
+    \end{figure}
+
+    \item Observation from Performance:
+\end{itemize}
+The Bernoulli model achieved an overall F1 Micro : 0.43, Accuracy : 0.50, Recall : 0.44 on the test set. Expect for class 5(rap), the performances of the other classes are not ideal. Some of the classes have F1 scores that are below 0.4. Especially class 2(latin) has the worst performance.
+
+\section{Analysis}
+Upon synthesizing the results from all models, we observed that the best F1-score reached only around 0.55. However, if we look at the performance for r\&b, rap and rock only, the f1-score is actually pretty high, which is around 0.67. The main reason for the low performance is from EDM, Latin and Pop. We attribute this performance to the following reasons:
+
+1. Insufficient Data Volume:
+   The limited size of the dataset may hinder the models from learning robust representations, impacting their ability to generalize well to unseen instances. When we look back to the volume of each classes, the volume for 'latin' is significantly lessor than the rest of the classes, causing the unbalance prediction of the model.
+
+2. Similarity Between Some Genres:
+   Certain music genres exhibit significant similarities, making it challenging for the models to distinguish between them effectively. This similarity could lead to confusion, particularly in genres where the distinction is subtle. From the figure below, we can see that for EDM, Latin and Pop their top 20 most frequent words are almost the same. Same words are highlighted in same color. We can roughly say that lyrics doesn't play a significant role in determining these three classes. If we could concatenate these three classes into a large class, the performance would've been better.
+   
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{Screenshot 2024-01-03 at 10.02.07 PM.png}
+    \caption{Top 20 most frequent words for EDM/Latin/Pop}
+    \label{fig:enter-label}
+\end{figure}
+
+
+Analyzing the confusion matrix, we note that the performance for rock, rap, and r\&b genres is relatively better, with accuracies hovering around 0.65. However, the performance significantly drops for the other three genres.
+
+Specific observations from the confusion matrix include:
+- EDM (Electronic Dance Music) is frequently misclassified as pop.
+- Latin genre has never been correctly predicted.
+- Pop genre has an accuracy of approximately 43\%, indicating substantial misclassifications.
+
+To improve model performance, strategies such as increasing the dataset size, addressing genre similarity challenges, and refining model architectures could be explored.
+
+
+\section{Conclusion}
+
+In conclusion, our music genre classification project utilizing Support Vector Machine (SVM), Neural Network, and Naive Bayes models provided valuable insights into the challenges and potential enhancements for such a task.
+
+The SVM model, optimized with a linear kernel and a regularization parameter (C) of approximately 0.99, achieved an accuracy of 54\%. The Neural Network model, with carefully tuned hyperparameters, exhibited an improved accuracy of 56\%. On the other hand, the Naive Bayes model demonstrated an accuracy of 50\%. Despite these achievements, the overall F1-score for all models was limited to around 0.55.
+
+Our analysis highlighted two primary factors influencing performance: the limited size of the dataset and the inherent similarity between certain music genres. These challenges contributed to notable misclassifications, particularly between EDM and pop, the complete absence of correct predictions for the Latin genre, and a relatively low accuracy of 43\% for pop.
+
+To enhance model performance, future efforts could focus on expanding the dataset, addressing genre similarities through advanced feature engineering, and exploring more sophisticated model architectures. The continuous refinement of these aspects may lead to improved accuracy and a more reliable music genre classification system.
+
+Despite the current limitations, this project serves as a foundation for further exploration and refinement in the field of music genre classification, contributing to the ongoing efforts to enhance the accuracy and robustness of such models.
+
+
+
+\begin{thebibliography}{00}
+\bibitem{b1} C. N. Silla Jr., C. A. A. Kaestner and A. L. Koerich, "Automatic music genre classification using ensemble of classifiers", 2007 IEEE International Conference on Systems, Man and Cybernetics, Montreal, QC, Canada, 2007, pp. 1687-1692, doi: 10.1109/ICSMC.2007.4414136.
+\bibitem{b2} Anna Boonyanit, Andrea Dahl, "Music Genre Classification using Song Lyrics", Stanford CS224N Custom Project, America, pp.1.
+\end{thebibliography}
+
+
+\end{document}
